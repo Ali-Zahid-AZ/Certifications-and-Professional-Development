@@ -57,8 +57,8 @@ ofessional Certificate Program: Quantum Computing & Quantum Internet | Credentia
 **<h2>IBM Quantum & The Coding School</h2>** 
 
 Quantum Computation Program | Quantum Information | QisKit Programming | Quantum Algorithms | Quantum Hardware
-Qubit x Qubit | IBM | MIT | Oxford University | The Coding School 
-Program Accreditation: US Accrediting Commission for Schools, Western Association of Schools and Colleges
+- Qubit x Qubit | IBM | MIT | Oxford University | The Coding School 
+- Program Accreditation: US Accrediting Commission for Schools, Western Association of Schools and Colleges
 
 [Certificate Credential ID](https://doi.org/10.13140/RG.2.2.32751.36009) | [Program Transcript | Semester 1](http://dx.doi.org/10.13140/RG.2.2.14756.09608) |  [Program Transcript | Semester 2](https://doi.org/10.13140/RG.2.2.23943.32163) | [IBM & Qubit x Qubit Quantum Program](https://www.qubitbyqubit.org/programs) | 
 
