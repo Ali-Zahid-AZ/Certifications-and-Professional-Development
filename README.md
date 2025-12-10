@@ -4,7 +4,33 @@ This repository includes all my certifications in Machine Learning, Data Science
 ---
 
 **<h2>DeepLearning AI</h2>**
- Generative Adversarial Networks (GANs) Professional Certification | Credential ID: Verify at: https://coursera.org/verify/specialization/YVK6Q6ZKK97S - TensorFlow Advanced Techniques Professional Certification | Credential ID: Verify at coursera.org/verify/specialization/2S6JZ7PF8LSP - TensorFlow Developer Professional Certification | Credential ID: Verify at coursera.org/verify/professional-cert/DEKC7P8UPDDP - Apply Generative Adversarial Networks (GANs) | Credential ID: Verify at: https://coursera.org/verify/TA7SS6JVDHJA - Build Better Generative Adversarial Networks (GANs) | Credential ID: Verify at: https://coursera.org/verify/HFNHVQ4WH4ZF - Build Basic Generative Adversarial Networks (GANs) | Credential ID: Verify at: https://coursera.org/share/e524d36f9e681b422aaa4750691a7b7f - Generative Deep Learning with TensorFlow | Credential ID: Verify at coursera.org/account/accomplishments/verify/3N5LS5NR645F - Custom and Distributed Training with TensorFlow | Credential ID: Verify at coursera.org/account/accomplishments/verify/YXBUHVHUZEDS - Custom Models, Layers and Loss Functions with TensorFlow | Credential ID: Verify at coursera.org/account/accomplishments/verify/B7BFKDXF3RUN - Sequences, Time Series and Prediction | Credential ID: Verify at coursera.org/account/accomplishments/verify/488LHQ6F25KX - Natural Language Processing in TensorFlow | Credential ID: Verify at coursera.org/account/accomplishments/verify/W6356DTCKWJK - Convolutional Neural Networks in TensorFlow | Credential ID: Verify at coursera.org/account/accomplishments/verify/HKHMF6KBAJ58 - Introduction to TensorFlow for AI, Machine Learning and Deep Learning | Credential ID: Verify at coursera.org/account/accomplishments/verify/7L2JYHRJ86K8
+- Generative Adversarial Networks (GANs) Professional Certification
+Credential ID: Verify at: https://coursera.org/verify/specialization/YVK6Q6ZKK97S
+- TensorFlow Advanced Techniques Professional Certification
+Credential ID: Verify at coursera.org/verify/specialization/2S6JZ7PF8LSP
+- TensorFlow Developer Professional Certification
+Credential ID: Verify at coursera.org/verify/professional-cert/DEKC7P8UPDDP
+- Apply Generative Adversarial Networks (GANs)
+Credential ID: Verify at: https://coursera.org/verify/TA7SS6JVDHJA
+- Build Better Generative Adversarial Networks (GANs)
+Credential ID: Verify at: https://coursera.org/verify/HFNHVQ4WH4ZF
+- Build Basic Generative Adversarial Networks (GANs)
+Credential ID: Verify at: https://coursera.org/share/e524d36f9e681b422aaa4750691a7b7f
+- Generative Deep Learning with TensorFlow
+Credential ID: Verify at coursera.org/account/accomplishments/verify/3N5LS5NR645F
+- Custom and Distributed Training with TensorFlow
+Credential ID: Verify at coursera.org/account/accomplishments/verify/YXBUHVHUZEDS
+- Custom Models, Layers and Loss Functions with TensorFlow
+Credential ID: Verify at coursera.org/account/accomplishments/verify/B7BFKDXF3RUN
+- Sequences, Time Series and Prediction
+Credential ID: Verify at coursera.org/account/accomplishments/verify/488LHQ6F25KX
+- Natural Language Processing in TensorFlow
+Credential ID: Verify at coursera.org/account/accomplishments/verify/W6356DTCKWJK
+- Convolutional Neural Networks in TensorFlow
+Credential ID: Verify at coursera.org/account/accomplishments/verify/HKHMF6KBAJ58
+- Introduction to TensorFlow for AI, Machine Learning and Deep Learning
+Credential ID: Verify at coursera.org/account/accomplishments/verify/7L2JYHRJ86K8
+
 ---
 
 **<h2>IBM</h2>**
