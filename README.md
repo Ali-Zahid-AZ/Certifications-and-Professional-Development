@@ -73,7 +73,7 @@ Pofessional Certificate Program: Quantum Computing & Quantum Internet
 - [Hardware of a Quantum Computer](courses.edx.org/certificates/bc2d6cf5ff70445c871c612fd469ba15)
 - [Architecture, Algorithms, Protocols of a Quantum Computer and Quantum Internet](courses.edx.org/certificates/ca32371d71724d2190f3070990462490)
 
-[Professional Certificate](credentials.edx.org/credentials/4c0b687775d3447db77685ab68ff8166/)
+[Professional Certificate](https://credentials.edx.org/credentials/4c0b687775d3447db77685ab68ff8166/)
 
 ---
 
