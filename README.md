@@ -4,7 +4,7 @@ This repository includes all my certifications in Machine Learning, Data Science
 ---
 
 **<h2>DeepLearning AI</h2>**
-
+ Generative Adversarial Networks (GANs) Professional Certification | Credential ID: Verify at: https://coursera.org/verify/specialization/YVK6Q6ZKK97S - TensorFlow Advanced Techniques Professional Certification | Credential ID: Verify at coursera.org/verify/specialization/2S6JZ7PF8LSP - TensorFlow Developer Professional Certification | Credential ID: Verify at coursera.org/verify/professional-cert/DEKC7P8UPDDP - Apply Generative Adversarial Networks (GANs) | Credential ID: Verify at: https://coursera.org/verify/TA7SS6JVDHJA - Build Better Generative Adversarial Networks (GANs) | Credential ID: Verify at: https://coursera.org/verify/HFNHVQ4WH4ZF - Build Basic Generative Adversarial Networks (GANs) | Credential ID: Verify at: https://coursera.org/share/e524d36f9e681b422aaa4750691a7b7f - Generative Deep Learning with TensorFlow | Credential ID: Verify at coursera.org/account/accomplishments/verify/3N5LS5NR645F - Custom and Distributed Training with TensorFlow | Credential ID: Verify at coursera.org/account/accomplishments/verify/YXBUHVHUZEDS - Custom Models, Layers and Loss Functions with TensorFlow | Credential ID: Verify at coursera.org/account/accomplishments/verify/B7BFKDXF3RUN - Sequences, Time Series and Prediction | Credential ID: Verify at coursera.org/account/accomplishments/verify/488LHQ6F25KX - Natural Language Processing in TensorFlow | Credential ID: Verify at coursera.org/account/accomplishments/verify/W6356DTCKWJK - Convolutional Neural Networks in TensorFlow | Credential ID: Verify at coursera.org/account/accomplishments/verify/HKHMF6KBAJ58 - Introduction to TensorFlow for AI, Machine Learning and Deep Learning | Credential ID: Verify at coursera.org/account/accomplishments/verify/7L2JYHRJ86K8
 ---
 
 **<h2>IBM</h2>**
@@ -14,3 +14,51 @@ IBM Badge Credential ID:  Verify: https://www.credly.com/go/3pr4iQjb
 - Python for Data Science
 IBM Badge Credential ID: Verify at youracclaim.com/badges/1b063a48-5a27-4297-bbb4-2edc56535ee4 - Big Data Foundations: Level 1 | IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/052634a2-3012-4c96-836f-a4e18613504c - Cloud Core | IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/54c48d60-990e-4144-861b-e5b3c4b090f2 - Data Science Foundations: Level 2: V2 | IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/3f094808-76da-45a7-812d-0d6456dd946c - Data Science Tools | IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/35b0e393-1b26-4ae4-817f-db366b6b479d - Data Science Methodologies | IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/d5797a9c-fa3c-4069-b152-b573f82fa94a 
 - Data Science Foundations: Level 1| IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/f41990df-9dc9-4ee7-8a4f-46b85c4f0ed9 - Deep Learning using TensorFlow | IBM Skill Network Credential ID:  Verify at courses.cognitiveclass.ai/certificates/50e94a850b99417cadbe43550f80f01a - Deep Learning Essentials | IBM Skill Network Credential ID:  Verify at courses.cognitiveclass.ai/certificates/50e94a850b99417cadbe43550f80f01a - Machine Learning with Python: Level 1 | IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f - Data Analysis with Python | IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/ee81804d-4722-4a76-8ac2-6cba14bf5f01 - Applied Data Science with Python: Level 2 | IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/7768dc99-aaea-436c-aaad-7400b9a4452c - Data Visualization with Python | IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/9a389c16-63c3-4817-adec-9085df1b4eb4 - R for Data Science | IBM Badge Credential ID: Verify at credly.com/badges/62ee530d-3b3c-4c37-99c6-d2e20f6587c6     - DataOps Methodology | IBM Badge Credential ID: Verify at https://www.credly.com/badges/69250cd3-3cbf-41d9-9b46-37449478a342 - Data Analysis with Python | IBM Badge Credential ID: Verify at youracclaim.com/badges/164c4e8f-740c-4213-aef1-a7955a4e7710 
+
+---
+
+**<h2>DataCamp</h2>**
+
+- Supervised Learning with Scikit Learn | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/708f3228ace531b863890fd93c0ab8fcda563e44 - Object Oriented Programming in Python | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/3c480641e0d8c9430556873a6e9ed0144728020d-  - Writing Efficient Code in Pandas | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/2e1c583abb35a002e3acd499677432bd01449b55 - Deep Learning in Python Track Completion | Credential ID: https://doi.org/10.13140/RG.2.2.23852.74889 - Advanced Deep Learning in Keras | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/0df2c0ac6f6cdbc36302207163ab019488fbda0c - Image Processing in Python | https://www.datacamp.com/statement-of-accomplishment/course/f4ae92089dcebd87a24b2c8809402932fbd6d8c4 - Introduction to Deep Learning with PyTorch | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/52e5525973774945090d884d3a25745618facfdd - Intermediate Python | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/724884f9e9e61e30ca9b415bb81b2889b4e1092e - Introduction to Data Engineering | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/35b86e65a4e35b8365f1ab36aa8fc4b1f90c4ef6 - Dimensionality Reduction in Python | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/b4abddb084527e029ea36a6cb9480fe3e28be9ad - Ensemble Methods in Python | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/f119d56ccc8b02179d426fa4de5b0aeeba3ab189 - Introduction to Network Analysis in Python (Graph Networks) | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/34f40f05851f9b2124bb21d8df3b91c107f3dacb - Hyperparameter Tuning in Python | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/ecae2c1b54106ad997a3b26671cd55cd880e0bc5 - Extreme Gradient Boosting with XGBOOST | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/58387b42842ccf1f868ff163f4cdffcffc883734 - Machine Learning with Tree-based Methods in Python | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/018ac81371d3d98b2adbad5c8ba4aca887009080 - Feature Engineering for Machine Learning in Python | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/363ee398fdd3a0af7f1cb3cee0e89239c848475c - Machine Learning with SciKit Learn | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/cf36f99132152331b14e86a6423f5bc1ffa11183 - Introduction to Deep Learning with Keras | Credential ID: https://www.datacamp.com/statement-of-accomplishment/course/a20e5dcb06de22bbea5930884eedf1ab1c7cab89 - Introduction to Deep Learning in Python | Credential ID:  https://www.datacamp.com/statement-of-accomplishment/course/4e5208701e45037803b219c3de2aa4cde41d1cb2 - Introduction to TensorFlow in Python | Credential ID:  https://www.datacamp.com/statement-of-accomplishment/course/dcab38857ab48dd9d2a01db1d13c
+
+---
+
+**<h2>Delft-X</h2>**
+
+ofessional Certificate Program: Quantum Computing & Quantum Internet | Credential ID: Verify at credentials.edx.org/credentials/4c0b687775d3447db77685ab68ff8166/ - Hardware of a Quantum Computer | Credential ID: Verify at courses.edx.org/certificates/bc2d6cf5ff70445c871c612fd469ba15 - Architecture, Algorithms, Protocols of a Quantum Computer and Quantum Internet | Credential ID: Verify at courses.edx.org/certificates/ca32371d71724d2190f3070990462490 
+
+---
+
+**<h2>IBM Quantum & The Coding School</h2>** 
+
+- Quantum Computation Program | QNT 101
+Qubit x Qubit | IBM | MIT | Oxford University | The Coding School 
+
+- Quantum Information | QisKit Programming | Quantum Algorithms | Quantum Hardware
+Semester 1 (08-2021: 12-2020) | Semester 2 (01-2021: 03-2021)
+October 2020 - May 2021
+
+Certificate Credential ID: https://doi.org/10.13140/RG.2.2.32751.36009
+Program Transcript | Semester 2: https://doi.org/10.13140/RG.2.2.23943.32163
+Program Transcript | Semester 1: http://dx.doi.org/10.13140/RG.2.2.14756.09608
+IBM & Qubit x Qubit Quantum Program URL: https://www.qubitbyqubit.org/programs
+Program Accreditation: US Accrediting Commission for Schools, Western Association of Schools and Colleges
+
+---
+
+**<h2>Latvijas Universitāte</h2>**
+
+QWorldChallenge2020 | Bronze Diploma 
+Global Quantum Programming Workshop | Q-Bronze | Fall 2020
+
+Quantum Computing | Quantum Programming | Implementing Quantum Protocols & Algorithms
+ November 2020 
+
+- Quantum search algorithms
+- Quantum operators on a quantum bot
+- Entanglement and basics quantum protocols
+- Probabilistic bits, coin-flipping, biased coins, probabilistic states, and probabilistic operators, correlation
+- Quantum programs as circuits: registers, gates, measurements, execution, and reading the outcomes, quantum state and operators
+
+Diploma Certificate Credential ID: https://doi.org/10.13140/RG.2.2.26630.40005
+Program URL: https://qworld.lu.lv/index.php/global-quantum-programming-workshop-qbronze/
