@@ -63,8 +63,8 @@ This repository includes all my certifications in Machine Learning, Data Science
 - [Machine Learning with SciKit Learn](https://www.datacamp.com/statement-of-accomplishment/course/cf36f99132152331b14e86a6423f5bc1ffa11183)
 - [Introduction to Deep Learning with Keras](https://www.datacamp.com/statement-of-accomplishment/course/a20e5dcb06de22bbea5930884eedf1ab1c7cab89)
 - [Introduction to Deep Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/4e5208701e45037803b219c3de2aa4cde41d1cb2)
-- [Introduction to TensorFlow in Python](https://www.datacamp.com/statement-of-accomplishment/course/dcab38857ab48dd9d2a01db1d13c)
-
+- [Introduction to TensorFlow in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/dcab38857ab48dd9d2a01db1d13c2641173ea59d)
+- 
 ---
 
 **<h2>Delft-X</h2>**
