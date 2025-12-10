@@ -11,9 +11,9 @@ This repository includes all my certifications in Machine Learning, Data Science
 - [Build Better Generative Adversarial Networks (GANs)](https://coursera.org/verify/HFNHVQ4WH4ZF)
 - [Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/e524d36f9e681b422aaa4750691a7b7f)
 - [Generative Deep Learning with TensorFlow](coursera.org/account/accomplishments/verify/3N5LS5NR645F)
-- [Custom and Distributed Training with TensorFlow](Credential ID: Verify at coursera.org/account/accomplishments/verify/YXBUHVHUZEDS)
+- [Custom and Distributed Training with TensorFlow](coursera.org/account/accomplishments/verify/YXBUHVHUZEDS)
 - [Custom Models, Layers and Loss Functions with TensorFlow](coursera.org/account/accomplishments/verify/B7BFKDXF3RUN)
-- [Sequences, Time Series and Prediction](coursera.org/account/accomplishments/verify/488LHQ6F25KX
+- [Sequences, Time Series and Prediction](coursera.org/account/accomplishments/verify/488LHQ6F25KX)
 - [Natural Language Processing in TensorFlow](coursera.org/account/accomplishments/verify/W6356DTCKWJK)
 - [Convolutional Neural Networks in TensorFlow](coursera.org/account/accomplishments/verify/HKHMF6KBAJ58)
 - [Introduction to TensorFlow for AI, Machine Learning and Deep Learning](coursera.org/account/accomplishments/verify/7L2JYHRJ86K8)
@@ -22,9 +22,9 @@ This repository includes all my certifications in Machine Learning, Data Science
 
 **<h2>IBM</h2>**
 
-- [Deep Neural Networks with PyTorch | IBM Badge Credential ID:  Verify: https://www.credly.com/go/3pr4iQjb
-- [Python for Data Science | IBM Badge Credential ID: Verify at youracclaim.com/badges/1b063a48-5a27-4297-bbb4-2edc56535ee4
-- [Big Data Foundations: Level 1 | IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/052634a2-3012-4c96-836f-a4e18613504c
+- [Deep Neural Networks with PyTorch](https://www.credly.com/go/3pr4iQjb)
+- [Python for Data Science](youracclaim.com/badges/1b063a48-5a27-4297-bbb4-2edc56535ee4)
+- [Big Data Foundations: Level 1](https://www.youracclaim.com/badges/052634a2-3012-4c96-836f-a4e18613504c)
 - [Cloud Core | IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/54c48d60-990e-4144-861b-e5b3c4b090f2
 - [Data Science Foundations: Level 2: V2 | IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/3f094808-76da-45a7-812d-0d6456dd946c
 - [Data Science Tools | IBM Badge Credential ID: Verify at https://www.youracclaim.com/badges/35b0e393-1b26-4ae4-817f-db366b6b479d
