@@ -95,10 +95,3 @@ QWorldChallenge2020 | Bronze Diploma
 
 [Diploma Certificate](https://doi.org/10.13140/RG.2.2.26630.40005)
 
----
-
-**<h2>Coursera</h3>**
-
-- [Introduction to Python](https://www.coursera.org/verify/JLCBWZVQZ9MP)
-- [Programming a Quantum Computer with Qiskit IBM-SDK](https://www.coursera.org/verify/JZDLE62BJ5QF)
-- [Logistic Regression with NumPy and Python](https://www.coursera.org/verify/CQFVTSB94SF4)
