@@ -5,8 +5,8 @@ This repository includes all my certifications in Machine Learning, Data Science
 
 **<h2>DeepLearning AI</h2>**
 - [Generative Adversarial Networks (GANs) Professional Certification](https://coursera.org/verify/specialization/YVK6Q6ZKK97S)
-- [TensorFlow Advanced Techniques Professional Certification]([coursera.org/verify/specialization/2S6JZ7PF8LSP](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP)
-- [TensorFlow Developer Professional Certification](coursera.org/verify/professional-cert/DEKC7P8UPDDP)
+- [TensorFlow Advanced Techniques Professional Certification](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP)
+- [TensorFlow Developer Professional Certification](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP)
 - [Apply Generative Adversarial Networks (GANs)](https://coursera.org/verify/TA7SS6JVDHJA)
 - [Build Better Generative Adversarial Networks (GANs)](https://coursera.org/verify/HFNHVQ4WH4ZF)
 - [Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/e524d36f9e681b422aaa4750691a7b7f)
