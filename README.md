@@ -51,7 +51,7 @@ This repository includes all my certifications in Machine Learning, Data Science
 - [Advanced Deep Learning in Keras](https://www.datacamp.com/statement-of-accomplishment/course/0df2c0ac6f6cdbc36302207163ab019488fbda0c)
 - [Image Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/f4ae92089dcebd87a24b2c8809402932fbd6d8c4)
 - [Introduction to Deep Learning with PyTorch](https://www.datacamp.com/statement-of-accomplishment/course/52e5525973774945090d884d3a25745618facfdd)
-- [Intermediate Python | Credential ID:](https://www.datacamp.com/statement-of-accomplishment/course/724884f9e9e61e30ca9b415bb81b2889b4e1092e)
+- [Intermediate Python](https://www.datacamp.com/statement-of-accomplishment/course/724884f9e9e61e30ca9b415bb81b2889b4e1092e)
 - [Introduction to Data Engineering](https://www.datacamp.com/statement-of-accomplishment/course/35b86e65a4e35b8365f1ab36aa8fc4b1f90c4ef6)
 - [Dimensionality Reduction in Python](https://www.datacamp.com/statement-of-accomplishment/course/b4abddb084527e029ea36a6cb9480fe3e28be9ad)
 - [Ensemble Methods in Python](https://www.datacamp.com/statement-of-accomplishment/course/f119d56ccc8b02179d426fa4de5b0aeeba3ab189)
