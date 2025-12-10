@@ -69,7 +69,7 @@ This repository includes all my certifications in Machine Learning, Data Science
 
 **<h2>Delft-X</h2>**
 
-Pofessional Certificate Program: Quantum Computing & Quantum Internet
+**Pofessional Certificate Program**: Quantum Computing & Quantum Internet
 - [Hardware of a Quantum Computer](https://courses.edx.org/certificates/bc2d6cf5ff70445c871c612fd469ba15)
 - [Architecture, Algorithms, Protocols of a Quantum Computer and Quantum](https://courses.edx.org/certificates/ca32371d71724d2190f3070990462490)
 
@@ -89,8 +89,7 @@ Quantum Computation Program | Quantum Information | QisKit Programming | Quantum
 
 **<h2>Latvijas Universitāte</h2>**
 
-QWorldChallenge2020 | Bronze Diploma 
-- Global Quantum Programming Workshop | Q-Bronze | Fall 2020
+**Bronze Diploma**
 - Quantum Computing | Quantum Programming | Implementing Quantum Protocols & Algorithms
 
 [Diploma Certificate](https://doi.org/10.13140/RG.2.2.26630.40005)
