@@ -5,7 +5,9 @@ This repository includes all my certifications in Machine Learning, Data Science
 
 **<h2>DeepLearning AI</h2>**
 - Generative Adversarial Networks (GANs) Professional Certification
+  
 Credential ID: Verify at: https://coursera.org/verify/specialization/YVK6Q6ZKK97S
+
 - TensorFlow Advanced Techniques Professional Certification
 Credential ID: Verify at coursera.org/verify/specialization/2S6JZ7PF8LSP
 - TensorFlow Developer Professional Certification
