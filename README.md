@@ -50,7 +50,9 @@ This repository includes all my certifications in Machine Learning, Data Science
 
 **<h2>Delft-X</h2>**
 
-ofessional Certificate Program: Quantum Computing & Quantum Internet | Credential ID: Verify at credentials.edx.org/credentials/4c0b687775d3447db77685ab68ff8166/ - Hardware of a Quantum Computer | Credential ID: Verify at courses.edx.org/certificates/bc2d6cf5ff70445c871c612fd469ba15 - Architecture, Algorithms, Protocols of a Quantum Computer and Quantum Internet | Credential ID: Verify at courses.edx.org/certificates/ca32371d71724d2190f3070990462490 
+[Pofessional Certificate Program: Quantum Computing & Quantum Internet](credentials.edx.org/credentials/4c0b687775d3447db77685ab68ff8166/) 
+- [Hardware of a Quantum Computer](courses.edx.org/certificates/bc2d6cf5ff70445c871c612fd469ba15)
+- [Architecture, Algorithms, Protocols of a Quantum Computer and Quantum Internet](courses.edx.org/certificates/ca32371d71724d2190f3070990462490)
 
 ---
 
@@ -60,23 +62,14 @@ Quantum Computation Program | Quantum Information | QisKit Programming | Quantum
 - Qubit x Qubit | IBM | MIT | Oxford University | The Coding School 
 - Program Accreditation: US Accrediting Commission for Schools, Western Association of Schools and Colleges
 
-[Certificate Credential ID](https://doi.org/10.13140/RG.2.2.32751.36009) | [Program Transcript | Semester 1](http://dx.doi.org/10.13140/RG.2.2.14756.09608) |  [Program Transcript | Semester 2](https://doi.org/10.13140/RG.2.2.23943.32163) | [IBM & Qubit x Qubit Quantum Program](https://www.qubitbyqubit.org/programs) | 
+[Certificate Credential ID](https://doi.org/10.13140/RG.2.2.32751.36009) | [Program Transcript | Semester 1](http://dx.doi.org/10.13140/RG.2.2.14756.09608) |  [Program Transcript | Semester 2](https://doi.org/10.13140/RG.2.2.23943.32163) | [IBM & Qubit x Qubit Quantum Program](https://www.qubitbyqubit.org/programs) 
 
 ---
 
 **<h2>Latvijas Universitāte</h2>**
 
 QWorldChallenge2020 | Bronze Diploma 
-Global Quantum Programming Workshop | Q-Bronze | Fall 2020
+- Global Quantum Programming Workshop | Q-Bronze | Fall 2020
+- Quantum Computing | Quantum Programming | Implementing Quantum Protocols & Algorithms
 
-Quantum Computing | Quantum Programming | Implementing Quantum Protocols & Algorithms
- November 2020 
-
-- Quantum search algorithms
-- Quantum operators on a quantum bot
-- Entanglement and basics quantum protocols
-- Probabilistic bits, coin-flipping, biased coins, probabilistic states, and probabilistic operators, correlation
-- Quantum programs as circuits: registers, gates, measurements, execution, and reading the outcomes, quantum state and operators
-
-Diploma Certificate Credential ID: https://doi.org/10.13140/RG.2.2.26630.40005
-Program URL: https://qworld.lu.lv/index.php/global-quantum-programming-workshop-qbronze/
+[Diploma Certificate](https://doi.org/10.13140/RG.2.2.26630.40005)
