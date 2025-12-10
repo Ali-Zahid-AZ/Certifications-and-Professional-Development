@@ -70,8 +70,8 @@ This repository includes all my certifications in Machine Learning, Data Science
 **<h2>Delft-X</h2>**
 
 Pofessional Certificate Program: Quantum Computing & Quantum Internet
-- [Hardware of a Quantum Computer](https://www.courses.edx.org/certificates/bc2d6cf5ff70445c871c612fd469ba15)
-- [Architecture, Algorithms, Protocols of a Quantum Computer and Quantum Internet](courses.edx.org/certificates/ca32371d71724d2190f3070990462490)
+- [Hardware of a Quantum Computer](https://courses.edx.org/certificates/bc2d6cf5ff70445c871c612fd469ba15)
+- [Architecture, Algorithms, Protocols of a Quantum Computer and Quantum](https://courses.edx.org/certificates/ca32371d71724d2190f3070990462490)
 
 [Professional Certificate](https://credentials.edx.org/credentials/4c0b687775d3447db77685ab68ff8166/)
 
