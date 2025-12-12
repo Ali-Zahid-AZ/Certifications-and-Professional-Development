@@ -26,18 +26,18 @@ This repository includes all my certifications in Machine Learning, AI, DeepLear
 - [Deep Learning using TensorFlow](https://www.youracclaim.com/badges/fbb79d1e-d65c-498e-ae53-4bdae8ce8e66)
 - [Deep Learning Essentials](https://www.credly.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
 - [Machine Learning with Python: Level 1](https://www.youracclaim.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
----
+
 - [Applied Data Science with Python: Level 2](https://www.youracclaim.com/badges/7768dc99-aaea-436c-aaad-7400b9a4452c)
 - [Data Visualization with Python](https://www.youracclaim.com/badges/9a389c16-63c3-4817-adec-9085df1b4eb4)
 - [Data Analysis with Python](https://www.youracclaim.com/badges/164c4e8f-740c-4213-aef1-a7955a4e7710)
 - [Python for Data Science](https://www.youracclaim.com/badges/1b063a48-5a27-4297-bbb4-2edc56535ee4)
-- [R for Data Science](https://www.credly.com/badges/62ee530d-3b3c-4c37-99c6-d2e20f6587c6)****
----
+- [R for Data Science](https://www.credly.com/badges/62ee530d-3b3c-4c37-99c6-d2e20f6587c6)
+
 - [Data Science Foundations: Level 2](https://www.youracclaim.com/badges/3f094808-76da-45a7-812d-0d6456dd946c)
 - [Data Science Foundations: Level 1](https://www.youracclaim.com/badges/f41990df-9dc9-4ee7-8a4f-46b85c4f0ed9)
 - [Data Science Methodologies](https://www.youracclaim.com/badges/d5797a9c-fa3c-4069-b152-b573f82fa94a)
 - [Data Science Tools](https://www.youracclaim.com/badges/35b0e393-1b26-4ae4-817f-db366b6b479d)
----
+
 - [DataOps Methodology](https://www.credly.com/badges/69250cd3-3cbf-41d9-9b46-37449478a342)
 - [Big Data Foundations: Level 1](https://www.youracclaim.com/badges/052634a2-3012-4c96-836f-a4e18613504c)
 - [Cloud Core](https://www.youracclaim.com/badges/54c48d60-990e-4144-861b-e5b3c4b090f2)
