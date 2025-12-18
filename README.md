@@ -1,5 +1,5 @@
 # Certifications-and-Professional-Development
-This repository includes all my certifications in Machine Learning, AI, DeepLearning, Data Science, Data Engineering, MLOps, DevOps, Cloud Native Computing, Software Engineering and Quantum Computing 
+This repository includes all my certifications in Machine Learning, AI, DeepLearning, Data Science, Data Engineering, DevOps, GitOps, MLOps, DevOps, Cloud Native Computing, Software Engineering and Quantum Computing 
 
 ---
 
