@@ -1,6 +1,6 @@
 # Ali Zahid — Certifications & Professional Development
 
-Verified professional certifications in **AI/ML, MLOps, LLMOps, RAG, Cloud, DevOps, and Quantum Computing**.  
+Verified professional certifications in **AI/ML, MLOps, LLMOps, RAG, Cloud, DevOps, GitOps and Quantum Computing**.  
 
 ---
 
