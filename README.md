@@ -6,7 +6,8 @@ Verified professional certifications in **AI/ML, MLOps, Cloud, DevOps, and Quant
 
 **<h2>DeepLearning AI</h2>**
 - Generative Adversarial Networks (GANs) Professional Certification
-  (Verify)(https://coursera.org/verify/specialization/YVK6Q6ZKK97S)
+  
+  [Verify](https://coursera.org/verify/specialization/YVK6Q6ZKK97S)
 - [TensorFlow Advanced Techniques Professional Certification](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP) | **Professional Certification**
 - [TensorFlow Developer Professional Certification](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP) | **Professional Certification**
 - [Apply Generative Adversarial Networks (GANs)](https://coursera.org/verify/TA7SS6JVDHJA)
