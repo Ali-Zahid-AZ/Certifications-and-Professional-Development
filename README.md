@@ -5,22 +5,19 @@ Verified professional certifications in **AI/ML, MLOps, Cloud, DevOps, and Quant
 ---
 
 **<h2>DeepLearning AI</h2>**
-- Generative Adversarial Networks (GANs) **Professional Certification**\
-  [Verify](https://coursera.org/verify/specialization/YVK6Q6ZKK97S) Skills: 
-- TensorFlow Advanced Techniques **Professional Certification**\
-  [Verify](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP) 
-- TensorFlow Developer **Professional Certification**\
-  [Verify](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP)
-- [Apply Generative Adversarial Networks (GANs)](https://coursera.org/verify/TA7SS6JVDHJA)
-- [Build Better Generative Adversarial Networks (GANs)](https://coursera.org/verify/HFNHVQ4WH4ZF)
-- [Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/e524d36f9e681b422aaa4750691a7b7f)
-- [Generative Deep Learning with TensorFlow](https://www.coursera.org/account/accomplishments/verify/3N5LS5NR645F)
-- [Custom and Distributed Training with TensorFlow](https://www.coursera.org/account/accomplishments/verify/YXBUHVHUZEDS)
-- [Custom Models, Layers and Loss Functions with TensorFlow](https://www.coursera.org/account/accomplishments/verify/B7BFKDXF3RUN)
-- [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/verify/488LHQ6F25KX)
-- [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/verify/W6356DTCKWJK)
-- [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/verify/HKHMF6KBAJ58)
-- [Introduction to TensorFlow for AI, Machine Learning and Deep Learning](https://www.coursera.org/account/accomplishments/verify/7L2JYHRJ86K8)
+- Generative Adversarial Networks (GANs) **Professional Certification** | [Verify](https://coursera.org/verify/specialization/YVK6Q6ZKK97S)
+- TensorFlow Advanced Techniques **Professional Certification** | [Verify](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP) 
+- TensorFlow Developer **Professional Certification** | [Verify](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP)
+- Apply Generative Adversarial Networks (GANs) | [Verfiy](https://coursera.org/verify/TA7SS6JVDHJA)
+- Build Better Generative Adversarial Networks (GANs) | [Verfiy](https://coursera.org/verify/HFNHVQ4WH4ZF)
+- Build Basic Generative Adversarial Networks (GANs) | [Verfiy](https://coursera.org/share/e524d36f9e681b422aaa4750691a7b7f)
+- Generative Deep Learning with TensorFlow | [Verfiy](https://www.coursera.org/account/accomplishments/verify/3N5LS5NR645F)
+- Custom and Distributed Training with TensorFlow | [Verfiy](https://www.coursera.org/account/accomplishments/verify/YXBUHVHUZEDS)
+- Custom Models, Layers and Loss Functions with TensorFlow | [Verfiy](https://www.coursera.org/account/accomplishments/verify/B7BFKDXF3RUN)
+- Sequences, Time Series and Prediction | [Verfiy](https://www.coursera.org/account/accomplishments/verify/488LHQ6F25KX)
+- Natural Language Processing in TensorFlow | [Verfiy](https://www.coursera.org/account/accomplishments/verify/W6356DTCKWJK)
+- Convolutional Neural Networks in TensorFlow | [Verfiy](https://www.coursera.org/account/accomplishments/verify/HKHMF6KBAJ58)
+- Introduction to TensorFlow for AI, Machine Learning and Deep Learning | [Verfiy](https://www.coursera.org/account/accomplishments/verify/7L2JYHRJ86K8)
 
 ---
 
