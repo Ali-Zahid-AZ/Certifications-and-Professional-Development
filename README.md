@@ -106,6 +106,7 @@ Quantum Computation Program | Quantum Information | QisKit Programming | Quantum
 
 ---
 
-**<h2>Peer Review Awards</h2>
+**<h2>Peer Review Awards</h2>**
 
 - Outstanding Reviewer Awards 2020 | Nanotechnology | IOP Publishing | [Verify](https://doi.org/10.13140/RG.2.2.20902.65606)
+- IOP Trusted Reviewer Award | IOP Publishing | [Verify](https://doi.org/10.13140/RG.2.2.20346.31683)
