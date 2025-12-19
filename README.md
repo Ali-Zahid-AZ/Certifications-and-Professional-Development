@@ -4,13 +4,13 @@ Verified professional certifications in **AI/ML, MLOps, Cloud, DevOps, and Quant
 
 ---
 
-**<h2>DeepLearning AI</h2>**
+**<h1>DeepLearning AI</h1>**
 **<h3>Professional Certifications</h3>**
 - Generative Adversarial Networks (GANs) **Professional Certification** | [Verify](https://coursera.org/verify/specialization/YVK6Q6ZKK97S)
 - TensorFlow Advanced Techniques **Professional Certification** | [Verify](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP) 
 - TensorFlow Developer **Professional Certification** | [Verify](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP)
 
-**</h3>Individual Courses</h3>**
+**<h3>Individual Courses</h3>**
 - Apply Generative Adversarial Networks (GANs) | [Verfiy](https://coursera.org/verify/TA7SS6JVDHJA)
 - Build Better Generative Adversarial Networks (GANs) | [Verfiy](https://coursera.org/verify/HFNHVQ4WH4ZF)
 - Build Basic Generative Adversarial Networks (GANs) | [Verfiy](https://coursera.org/share/e524d36f9e681b422aaa4750691a7b7f)
@@ -24,12 +24,12 @@ Verified professional certifications in **AI/ML, MLOps, Cloud, DevOps, and Quant
 
 ---
 
-**<h2>IBM</h2>**
+**<h1>IBM</h1>**
 
-- [Deep Neural Networks with PyTorch](https://www.credly.com/go/3pr4iQjb)
-- [Deep Learning using TensorFlow](https://www.youracclaim.com/badges/fbb79d1e-d65c-498e-ae53-4bdae8ce8e66)
-- [Deep Learning Essentials](https://www.credly.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
-- [Introduction to DevOps]()
+- Deep Neural Networks with PyTorch | [Verfiy](https://www.credly.com/go/3pr4iQjb)
+- Deep Learning using TensorFlow | [Verfiy](https://www.youracclaim.com/badges/fbb79d1e-d65c-498e-ae53-4bdae8ce8e66)
+- Deep Learning Essentials | [Verfiy](https://www.credly.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
+- Introduction to DevOps | [Verfiy]()
 - [Containers & Kubernetes Essentials](https://www.credly.com/badges/8f888d45-4bf8-42d9-9cfe-c6e73bbd8ca2)
 - [Machine Learning with Python: Level 1](https://www.youracclaim.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
 - [Applied Data Science with Python: Level 2](https://www.youracclaim.com/badges/7768dc99-aaea-436c-aaad-7400b9a4452c)
