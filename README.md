@@ -25,7 +25,9 @@ Verified professional certifications in **AI/ML, MLOps, Cloud, DevOps, and Quant
 ---
 
 **<h1>IBM</h1>**
+**Professional Certifications**
 
+**Individual Courses**
 - Deep Neural Networks with PyTorch [Verfiy](https://www.credly.com/go/3pr4iQjb)
 - Deep Learning using TensorFlow [Verfiy](https://www.youracclaim.com/badges/fbb79d1e-d65c-498e-ae53-4bdae8ce8e66)
 - Deep Learning Essentials [Verfiy](https://www.credly.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
@@ -50,7 +52,10 @@ Verified professional certifications in **AI/ML, MLOps, Cloud, DevOps, and Quant
 
 **<h2>DataCamp</h2>**
 
+**Learning Tracks**
 - Deep Learning in Python Track Completion [Verfiy](https://doi.org/10.13140/RG.2.2.23852.74889)
+
+**Individual Courses**
 - Advanced Deep Learning in Keras [Verfiy](https://www.datacamp.com/statement-of-accomplishment/course/0df2c0ac6f6cdbc36302207163ab019488fbda0c)
 - Image Processing in Python [Verfiy](https://www.datacamp.com/statement-of-accomplishment/course/f4ae92089dcebd87a24b2c8809402932fbd6d8c4)
 - Introduction to Deep Learning with PyTorch [Verfiy](https://www.datacamp.com/statement-of-accomplishment/course/52e5525973774945090d884d3a25745618facfdd)
