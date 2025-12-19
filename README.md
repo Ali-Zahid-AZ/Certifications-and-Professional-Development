@@ -21,12 +21,13 @@ This repository includes all my certifications in Machine Learning, AI, DeepLear
 ---
 
 **<h2>IBM</h2>**
-- [Containers & Kubernetes Essentials](https://www.credly.com/badges/8f888d45-4bf8-42d9-9cfe-c6e73bbd8ca2)
+
 - [Deep Neural Networks with PyTorch](https://www.credly.com/go/3pr4iQjb)
 - [Deep Learning using TensorFlow](https://www.youracclaim.com/badges/fbb79d1e-d65c-498e-ae53-4bdae8ce8e66)
 - [Deep Learning Essentials](https://www.credly.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
-- [Machine Learning with Python: Level 1](https://www.youracclaim.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
 - [Introduction to DevOps]()
+- [Containers & Kubernetes Essentials](https://www.credly.com/badges/8f888d45-4bf8-42d9-9cfe-c6e73bbd8ca2)
+- [Machine Learning with Python: Level 1](https://www.youracclaim.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
 - [Applied Data Science with Python: Level 2](https://www.youracclaim.com/badges/7768dc99-aaea-436c-aaad-7400b9a4452c)
 - [Data Visualization with Python](https://www.youracclaim.com/badges/9a389c16-63c3-4817-adec-9085df1b4eb4)
 - [Data Analysis with Python](https://www.youracclaim.com/badges/164c4e8f-740c-4213-aef1-a7955a4e7710)
