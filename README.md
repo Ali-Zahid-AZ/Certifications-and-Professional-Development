@@ -73,8 +73,30 @@ Verified professional certifications in **AI/ML, MLOps, Cloud, DevOps, and Quant
 
 ---
 
-**<h2>Delft-X</h2>**
+**<h2>DelftX</h2>**
 
 **Pofessional Certificate Program**: Quantum Computing & Quantum Internet
 - [Hardware of a Quantum Computer](https://courses.edx.org/certificates/bc2d6cf5ff70445c871c612fd469ba15)
 - [Architecture, Algorithms, Protocols of a Quantum Computer and Quantum](https://courses.edx.org/certificates/ca32371d71724d2190f3070990462490)
+
+[Professional Certificate](https://credentials.edx.org/credentials/4c0b687775d3447db77685ab68ff8166/)
+
+---
+
+**<h2>IBM Quantum & The Coding School</h2>** 
+
+Quantum Computation Program | Quantum Information | QisKit Programming | Quantum Algorithms | Quantum Hardware
+- Qubit x Qubit | IBM | MIT | Oxford University | The Coding School 
+- Program Accreditation: US Accrediting Commission for Schools, Western Association of Schools and Colleges
+
+[Certificate Credential ID](https://doi.org/10.13140/RG.2.2.32751.36009) | [Program Transcript | Semester 1](http://dx.doi.org/10.13140/RG.2.2.14756.09608) |  [Program Transcript | Semester 2](https://doi.org/10.13140/RG.2.2.23943.32163) | [IBM & Qubit x Qubit Quantum Program](https://www.qubitbyqubit.org/programs) 
+
+---
+
+**<h2>Latvijas Universitāte</h2>**
+
+**Bronze Diploma**
+- Quantum Computing | Quantum Programming | Implementing Quantum Protocols & Algorithms
+
+[Diploma Certificate](https://doi.org/10.13140/RG.2.2.26630.40005)
+
