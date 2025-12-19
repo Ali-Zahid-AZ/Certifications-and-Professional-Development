@@ -1,99 +1,56 @@
-# Certifications-and-Professional-Development
-This repository includes all my certifications in Machine Learning, AI, DeepLearning, Data Science, Data Engineering, DevOps, GitOps, MLOps, DevOps, Cloud Native Computing, Software Engineering and Quantum Computing 
+# Ali Zahid — Certifications & Professional Development
+
+Verified professional certifications in **AI/ML, MLOps, Cloud, DevOps, and Quantum Computing**.  
+Click badges to view PDF certificates. Skills are listed as tags for quick scanning.
 
 ---
 
-**<h2>DeepLearning AI</h2>**
-- [Generative Adversarial Networks (GANs) Professional Certification](https://coursera.org/verify/specialization/YVK6Q6ZKK97S) | **Professional Certification**
-- [TensorFlow Advanced Techniques Professional Certification](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP) | **Professional Certification**
-- [TensorFlow Developer Professional Certification](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP) | **Professional Certification**
-- [Apply Generative Adversarial Networks (GANs)](https://coursera.org/verify/TA7SS6JVDHJA)
-- [Build Better Generative Adversarial Networks (GANs)](https://coursera.org/verify/HFNHVQ4WH4ZF)
-- [Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/e524d36f9e681b422aaa4750691a7b7f)
-- [Generative Deep Learning with TensorFlow](https://www.coursera.org/account/accomplishments/verify/3N5LS5NR645F)
-- [Custom and Distributed Training with TensorFlow](https://www.coursera.org/account/accomplishments/verify/YXBUHVHUZEDS)
-- [Custom Models, Layers and Loss Functions with TensorFlow](https://www.coursera.org/account/accomplishments/verify/B7BFKDXF3RUN)
-- [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/verify/488LHQ6F25KX)
-- [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/verify/W6356DTCKWJK)
-- [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/verify/HKHMF6KBAJ58)
-- [Introduction to TensorFlow for AI, Machine Learning and Deep Learning](https://www.coursera.org/account/accomplishments/verify/7L2JYHRJ86K8)
+## DeepLearning.AI
+
+[![TensorFlow Badge](certificates/DeepLearningAI/badges/tensorflow.png)](certificates/DeepLearningAI/tensorflow_developer.pdf)  
+**TensorFlow Developer Professional Certificate**  
+*Skills:* `TensorFlow` `CNNs` `NLP` `Custom Models`
+
+[![GANs Badge](certificates/DeepLearningAI/badges/gans.png)](certificates/DeepLearningAI/gans_specialization.pdf)  
+**GANs Specialization**  
+*Skills:* `GAN` `Generative Modeling` `Adversarial Training`
 
 ---
 
-**<h2>IBM</h2>**
+## IBM
 
-- [Deep Neural Networks with PyTorch](https://www.credly.com/go/3pr4iQjb)
-- [Deep Learning using TensorFlow](https://www.youracclaim.com/badges/fbb79d1e-d65c-498e-ae53-4bdae8ce8e66)
-- [Deep Learning Essentials](https://www.credly.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
-- [Introduction to DevOps]()
-- [Containers & Kubernetes Essentials](https://www.credly.com/badges/8f888d45-4bf8-42d9-9cfe-c6e73bbd8ca2)
-- [Machine Learning with Python: Level 1](https://www.youracclaim.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
-- [Applied Data Science with Python: Level 2](https://www.youracclaim.com/badges/7768dc99-aaea-436c-aaad-7400b9a4452c)
-- [Data Visualization with Python](https://www.youracclaim.com/badges/9a389c16-63c3-4817-adec-9085df1b4eb4)
-- [Data Analysis with Python](https://www.youracclaim.com/badges/164c4e8f-740c-4213-aef1-a7955a4e7710)
-- [Python for Data Science](https://www.youracclaim.com/badges/1b063a48-5a27-4297-bbb4-2edc56535ee4)
-- [R for Data Science](https://www.credly.com/badges/62ee530d-3b3c-4c37-99c6-d2e20f6587c6)
-- [Data Science Foundations: Level 2](https://www.youracclaim.com/badges/3f094808-76da-45a7-812d-0d6456dd946c)
-- [Data Science Foundations: Level 1](https://www.youracclaim.com/badges/f41990df-9dc9-4ee7-8a4f-46b85c4f0ed9)
-- [Data Science Methodologies](https://www.youracclaim.com/badges/d5797a9c-fa3c-4069-b152-b573f82fa94a)
-- [Data Science Tools](https://www.youracclaim.com/badges/35b0e393-1b26-4ae4-817f-db366b6b479d)
-- [DataOps Methodology](https://www.credly.com/badges/69250cd3-3cbf-41d9-9b46-37449478a342)
-- [Big Data Foundations: Level 1](https://www.youracclaim.com/badges/052634a2-3012-4c96-836f-a4e18613504c)
-- [Cloud Core](https://www.youracclaim.com/badges/54c48d60-990e-4144-861b-e5b3c4b090f2)
+[![PyTorch Badge](certificates/IBM/badges/pytorch.png)](certificates/IBM/deep_neural_networks_pytorch.pdf)  
+**Deep Neural Networks with PyTorch**  
+*Skills:* `PyTorch` `Deep Learning` `Neural Network Design`
 
+[![DevOps Badge](certificates/IBM/badges/devops.png)](certificates/IBM/devops_intro.pdf)  
+**Introduction to DevOps**  
+*Skills:* `DevOps` `CI/CD` `Containers` `Kubernetes`
+
+[![Python Badge](certificates/IBM/badges/python.png)](certificates/IBM/python_data_science.pdf)  
+**Machine Learning with Python**  
+*Skills:* `Python` `Data Analysis` `Pandas` `Scikit-Learn`
 
 ---
 
-**<h2>DataCamp</h2>**
+## DataCamp
 
-- [Deep Learning in Python Track Completion](https://doi.org/10.13140/RG.2.2.23852.74889)
-- [Advanced Deep Learning in Keras](https://www.datacamp.com/statement-of-accomplishment/course/0df2c0ac6f6cdbc36302207163ab019488fbda0c)
-- [Image Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/f4ae92089dcebd87a24b2c8809402932fbd6d8c4)
-- [Introduction to Deep Learning with PyTorch](https://www.datacamp.com/statement-of-accomplishment/course/52e5525973774945090d884d3a25745618facfdd)
-- [Introduction to Deep Learning with Keras](https://www.datacamp.com/statement-of-accomplishment/course/a20e5dcb06de22bbea5930884eedf1ab1c7cab89)
-- [Introduction to Deep Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/4e5208701e45037803b219c3de2aa4cde41d1cb2)
-- [Introduction to TensorFlow in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/dcab38857ab48dd9d2a01db1d13c2641173ea59d)
-- [Dimensionality Reduction in Python](https://www.datacamp.com/statement-of-accomplishment/course/b4abddb084527e029ea36a6cb9480fe3e28be9ad)
-- [Ensemble Methods in Python](https://www.datacamp.com/statement-of-accomplishment/course/f119d56ccc8b02179d426fa4de5b0aeeba3ab189)
-- [Hyperparameter Tuning in Python](https://www.datacamp.com/statement-of-accomplishment/course/ecae2c1b54106ad997a3b26671cd55cd880e0bc5)
-- [Extreme Gradient Boosting with XGBOOST](https://www.datacamp.com/statement-of-accomplishment/course/58387b42842ccf1f868ff163f4cdffcffc883734)
-- [Machine Learning with Tree-based Methods in Python](https://www.datacamp.com/statement-of-accomplishment/course/018ac81371d3d98b2adbad5c8ba4aca887009080)
-- [Feature Engineering for Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/363ee398fdd3a0af7f1cb3cee0e89239c848475c)
-- [Supervised Learning with Scikit Learn](https://www.datacamp.com/statement-of-accomplishment/course/708f3228ace531b863890fd93c0ab8fcda563e44)
-- [Machine Learning with SciKit Learn](https://www.datacamp.com/statement-of-accomplishment/course/cf36f99132152331b14e86a6423f5bc1ffa11183)
-- [Introduction to Network Analysis in Python (Graph Networks)](https://www.datacamp.com/statement-of-accomplishment/course/34f40f05851f9b2124bb21d8df3b91c107f3dacb)
-- [Introduction to Data Engineering](https://www.datacamp.com/statement-of-accomplishment/course/35b86e65a4e35b8365f1ab36aa8fc4b1f90c4ef6)
-- [Object Oriented Programming in Python](https://www.datacamp.com/statement-of-accomplishment/course/3c480641e0d8c9430556873a6e9ed0144728020d)
-- [Writing Efficient Code in Pandas](https://www.datacamp.com/statement-of-accomplishment/course/2e1c583abb35a002e3acd499677432bd01449b55)
-- [Intermediate Python](https://www.datacamp.com/statement-of-accomplishment/course/724884f9e9e61e30ca9b415bb81b2889b4e1092e)
+[![DataCamp Badge](certificates/DataCamp/badges/datacamp.png)](certificates/DataCamp/deep_learning_track.pdf)  
+**Deep Learning in Python Track**  
+*Skills:* `Keras` `PyTorch` `TensorFlow` `Model Deployment`
 
+[![ML Badge](certificates/DataCamp/badges/ml.png)](certificates/DataCamp/advanced_ml_data_engineering.pdf)  
+**Advanced ML & Data Engineering**  
+*Skills:* `XGBoost` `Tree-Based Methods` `Feature Engineering` `Data Pipelines`
 
 ---
 
-**<h2>Delft-X</h2>**
+## Quantum Computing
 
-**Pofessional Certificate Program**: Quantum Computing & Quantum Internet
-- [Hardware of a Quantum Computer](https://courses.edx.org/certificates/bc2d6cf5ff70445c871c612fd469ba15)
-- [Architecture, Algorithms, Protocols of a Quantum Computer and Quantum](https://courses.edx.org/certificates/ca32371d71724d2190f3070990462490)
+[![Quantum Badge](certificates/Quantum/badges/quantum.png)](certificates/Quantum/delftx_quantum.pdf)  
+**DelftX — Quantum Computing & Quantum Internet**  
+*Skills:* `Quantum Algorithms` `Protocols` `Hardware`
 
-[Professional Certificate](https://credentials.edx.org/credentials/4c0b687775d3447db77685ab68ff8166/)
-
----
-
-**<h2>IBM Quantum & The Coding School</h2>** 
-
-Quantum Computation Program | Quantum Information | QisKit Programming | Quantum Algorithms | Quantum Hardware
-- Qubit x Qubit | IBM | MIT | Oxford University | The Coding School 
-- Program Accreditation: US Accrediting Commission for Schools, Western Association of Schools and Colleges
-
-[Certificate Credential ID](https://doi.org/10.13140/RG.2.2.32751.36009) | [Program Transcript | Semester 1](http://dx.doi.org/10.13140/RG.2.2.14756.09608) |  [Program Transcript | Semester 2](https://doi.org/10.13140/RG.2.2.23943.32163) | [IBM & Qubit x Qubit Quantum Program](https://www.qubitbyqubit.org/programs) 
-
----
-
-**<h2>Latvijas Universitāte</h2>**
-
-**Bronze Diploma**
-- Quantum Computing | Quantum Programming | Implementing Quantum Protocols & Algorithms
-
-[Diploma Certificate](https://doi.org/10.13140/RG.2.2.26630.40005)
-
+[![IBM Quantum Badge](certificates/Quantum/badges/ibm_quantum.png)](certificates/Quantum/ibm_quantum_program.pdf)  
+**IBM Quantum Computation Program**  
+*Skills:* `Qiskit Programming` `Quantum Algorithms` `Quantum Hardware`
