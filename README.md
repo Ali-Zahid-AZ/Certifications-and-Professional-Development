@@ -32,6 +32,7 @@ Verified professional certifications in **AI/ML, MLOps, LLMOps, Cloud, DevOps, G
 - Deep Learning using TensorFlow [Verfiy](https://www.youracclaim.com/badges/fbb79d1e-d65c-498e-ae53-4bdae8ce8e66)
 - Deep Learning Essentials [Verfiy](https://www.credly.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
 - Introduction to DevOps [Verfiy](https://coursera.org/share/a4b93bcc4d86d525cb89d531307af8e9)
+
   Microservices | Team Oriented | Agile Methodology | Cloud-Native Computing | Culture Transformation | Scrum (Software Development) | Cross-Functional Collaboration | Test Driven Development (TDD) | CI/CD | Accountability | Behavior-Driven Development | DevOps
 - Containers & Kubernetes Essentials [Verfiy](https://www.credly.com/badges/8f888d45-4bf8-42d9-9cfe-c6e73bbd8ca2)
 - Machine Learning with Python: Level 1 [Verfiy](https://www.youracclaim.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
