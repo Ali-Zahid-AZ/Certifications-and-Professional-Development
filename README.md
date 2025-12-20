@@ -31,7 +31,7 @@ Verified professional certifications in **AI/ML, MLOps, LLMOps, Cloud, DevOps, G
 - Deep Neural Networks with PyTorch [Verfiy](https://www.credly.com/go/3pr4iQjb)
 - Deep Learning using TensorFlow [Verfiy](https://www.youracclaim.com/badges/fbb79d1e-d65c-498e-ae53-4bdae8ce8e66)
 - Deep Learning Essentials [Verfiy](https://www.credly.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
-- Introduction to DevOps [Verfiy]()
+- Introduction to DevOps [Verfiy](https://coursera.org/share/a4b93bcc4d86d525cb89d531307af8e9)
 - Containers & Kubernetes Essentials [Verfiy](https://www.credly.com/badges/8f888d45-4bf8-42d9-9cfe-c6e73bbd8ca2)
 - Machine Learning with Python: Level 1 [Verfiy](https://www.youracclaim.com/badges/21a50bd3-73c1-4a0b-bea4-b81a1f5b7f4f)
 - Applied Data Science with Python: Level 2 [Verfiy](https://www.youracclaim.com/badges/7768dc99-aaea-436c-aaad-7400b9a4452c)
