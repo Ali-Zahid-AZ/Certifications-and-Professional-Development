@@ -30,6 +30,7 @@ Verified professional certifications in **AI/ML, MLOps, LLMOps, Cloud, DevOps, G
 
 **Individual Courses**
 - Vector Databases for RAG: An Introduction [Verify](https://www.credly.com/badges/0a2a6a7c-3200-45ba-bf27-60680cf5ae80/public_url)
+- Build RAG Applications: Get Started [Verify](https://www.credly.com/badges/4e72c407-4ca9-4963-ae38-9145c8057125/public_url)
 - Develop Generative AI Applications: Get Started [Verify](https://www.credly.com/badges/9ac676bb-0a77-46d1-a4ed-fa58eb4b688d/public_url)
 - Deep Neural Networks with PyTorch [Verfiy](https://www.credly.com/go/3pr4iQjb)
 - Deep Learning using TensorFlow [Verfiy](https://www.youracclaim.com/badges/fbb79d1e-d65c-498e-ae53-4bdae8ce8e66)
