@@ -29,6 +29,7 @@ Verified professional certifications in **AI/ML, MLOps, LLMOps, Cloud, DevOps, G
 
 
 **Individual Courses**
+- Advanced RAG with Vector Databases and Retrievers [Verify](https://www.credly.com/badges/7dd66b25-7482-4d04-b066-30ac942982e3)
 - Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI [Verify](https://www.credly.com/badges/1cd19886-7150-471e-86d1-69ceba37fe04)
 - Agentic AI with LangChain and LangGraph [Verify](https://www.credly.com/badges/72b58c49-5211-49a1-b957-ddceac06e161)
 - Fundamentals of Building AI Agents [Verify](https://www.credly.com/badges/b6224c0f-ae4f-45c1-b667-0de886bcf67d)
