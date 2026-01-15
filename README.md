@@ -26,10 +26,12 @@ Verified professional certifications in **AI/ML, MLOps, LLMOps, Cloud, DevOps, G
 
 **<h1>IBM</h1>**
 **Professional Certifications and Specializations**
+- IBM RAG and Agentic AI Professional Certificate [Verify](https://www.credly.com/badges/6e6bc44c-1425-4589-8095-6823058f4a9c)
 - Building AI Agents and Agentic Workflows Specialization [Verify](https://www.credly.com/badges/137d4de4-ee45-4a04-86ec-296e006d3145)
 - RAG for Generative AI Applications Specialization [Verify](https://www.credly.com/badges/e73ea090-ffcb-4c31-8da8-107281b4dbe7)
 
 **Individual Courses**
+- Build Multimodal Generative AI Applications [Verify](https://www.credly.com/badges/bf6a29c0-ad33-420b-9812-17fdd420ac73)
 - Advanced RAG with Vector Databases and Retrievers [Verify](https://www.credly.com/badges/7dd66b25-7482-4d04-b066-30ac942982e3)
 - Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI [Verify](https://www.credly.com/badges/1cd19886-7150-471e-86d1-69ceba37fe04)
 - Agentic AI with LangChain and LangGraph [Verify](https://www.credly.com/badges/72b58c49-5211-49a1-b957-ddceac06e161)
