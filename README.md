@@ -25,8 +25,9 @@ Verified professional certifications in **AI/ML, MLOps, LLMOps, Cloud, DevOps, G
 ---
 
 **<h1>IBM</h1>**
-**Professional Certifications**
-
+**Professional Certifications and Specializations**
+- Building AI Agents and Agentic Workflows Specialization [Verify](https://www.credly.com/badges/137d4de4-ee45-4a04-86ec-296e006d3145)
+- RAG for Generative AI Applications Specialization [Verify](https://www.credly.com/badges/e73ea090-ffcb-4c31-8da8-107281b4dbe7)
 
 **Individual Courses**
 - Advanced RAG with Vector Databases and Retrievers [Verify](https://www.credly.com/badges/7dd66b25-7482-4d04-b066-30ac942982e3)
