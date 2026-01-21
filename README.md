@@ -11,6 +11,7 @@ Verified professional certifications in **AI/ML, MLOps, LLMOps, Cloud, DevOps, G
 - TensorFlow Developer Professional Certification  [Verify](https://www.coursera.org/account/accomplishments/specialization/2S6JZ7PF8LSP)
 
 **Individual Courses**
+- ChatGPT Prompt Engineering for Developers [Verify](https://learn.deeplearning.ai/accomplishments/907aae11-152e-46ad-941c-294a8527a975)
 - Apply Generative Adversarial Networks (GANs) [Verfiy](https://coursera.org/verify/TA7SS6JVDHJA)
 - Build Better Generative Adversarial Networks (GANs) [Verfiy](https://coursera.org/verify/HFNHVQ4WH4ZF)
 - Build Basic Generative Adversarial Networks (GANs) [Verfiy](https://coursera.org/share/e524d36f9e681b422aaa4750691a7b7f)
