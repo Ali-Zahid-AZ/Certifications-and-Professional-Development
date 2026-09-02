@@ -1,0 +1,17 @@
+{
+  "activePreset": "Default",
+  "activeFullscreenPreset": "Default",
+  "separateFullscreenPreset": false,
+  "presets": {
+    "Default": {
+      "plugin-backlink;1": {"position":1,"visible":false},
+      "plugin-properties;1": {"position":2,"visible":false},
+      "plugin-editor-status;1": {"position":3,"visible":false},
+      "plugin-word-count;1": {"position":4,"visible":false},
+      "plugin-sync;1": {"position":5,"visible":false},
+      "plugin-various-complements;1": {"position":6,"visible":true}
+    }
+  },
+  "presetsOrder": ["Default"],
+  "version": "2.1.4"
+}

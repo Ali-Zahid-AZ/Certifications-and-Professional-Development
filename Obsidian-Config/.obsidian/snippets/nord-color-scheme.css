@@ -1,0 +1,135 @@
+/* Nord Header Colors — ported from the "Obsidian Nord" theme.
+   Self-contained (hex values inlined) so it works on any active theme (AnuPpuccin).
+   Maps H1–H6 to Nord's exact header palette. */
+
+.theme-dark,
+.theme-light {
+    --h1-color: #bf616a !important;
+    --h2-color: #ebcb8b !important;
+    --h3-color: #a3be8c !important;
+    --h4-color: #b48ead !important;
+    --h5-color: #8fbcbb !important;
+    --h6-color: #81a1c1 !important;
+}
+
+.theme-dark  { --bold-color: #ebcb8b !important; }
+.theme-light { --bold-color: #a3be8c !important; }
+
+.markdown-rendered strong,
+.markdown-rendered b,
+.markdown-source-view.mod-cm6 .cm-strong {
+    color: var(--bold-color) !important;
+}
+
+.markdown-rendered h1 { color: var(--h1-color) !important; }
+.markdown-rendered h2 { color: var(--h2-color) !important; }
+.markdown-rendered h3 { color: var(--h3-color) !important; }
+.markdown-rendered h4 { color: var(--h4-color) !important; }
+.markdown-rendered h5 { color: var(--h5-color) !important; }
+.markdown-rendered h6 { color: var(--h6-color) !important; }
+
+.markdown-source-view.mod-cm6 .cm-header-1,
+.HyperMD-header-1 { color: var(--h1-color) !important; }
+.markdown-source-view.mod-cm6 .cm-header-2,
+.HyperMD-header-2 { color: var(--h2-color) !important; }
+.markdown-source-view.mod-cm6 .cm-header-3,
+.HyperMD-header-3 { color: var(--h3-color) !important; }
+.markdown-source-view.mod-cm6 .cm-header-4,
+.HyperMD-header-4 { color: var(--h4-color) !important; }
+.markdown-source-view.mod-cm6 .cm-header-5,
+.HyperMD-header-5 { color: var(--h5-color) !important; }
+.markdown-source-view.mod-cm6 .cm-header-6,
+.HyperMD-header-6 { color: var(--h6-color) !important; }
+
+.theme-dark,
+.theme-light {
+    --link-url: #b48ead !important;
+    --text-accent: #d08770 !important;
+    --text-accent-hover: #81a1c1 !important;
+    --inline-title-color: #ebcb8b !important;
+    --code-normal: #88c0d0 !important;
+    --text-highlight-fg: #2e3440 !important;
+}
+
+.theme-dark {
+    --italic-color: #ebcb8b !important;
+    --text-highlight-bg: #88c0d0 !important;
+    --tag-color: #8fbcbb !important;
+    --tag-background: #434c5e !important;
+    --nav-file-tag: rgba(208,135,112,0.9) !important;
+}
+
+.theme-light {
+    --italic-color: #a3be8c !important;
+    --text-highlight-bg: #ebcb8b !important;
+    --tag-color: #4c566a !important;
+    --tag-background: #e5e9f0 !important;
+    --nav-file-tag: rgba(208,135,112,0.9) !important;
+}
+
+.markdown-rendered em,
+.markdown-rendered i,
+.markdown-source-view.mod-cm6 .cm-em {
+    color: var(--italic-color) !important;
+}
+
+.markdown-rendered a.internal-link,
+.markdown-rendered a.external-link,
+.cm-hmd-internal-link,
+.cm-link {
+    color: var(--text-accent) !important;
+}
+.markdown-rendered a.internal-link:hover,
+.markdown-rendered a.external-link:hover,
+.cm-hmd-internal-link:hover,
+.cm-link:hover {
+    color: var(--text-accent-hover) !important;
+}
+.cm-url { color: var(--link-url) !important; }
+.cm-url:hover { color: var(--text-accent-hover) !important; }
+
+.markdown-rendered mark,
+.cm-highlight {
+    background-color: var(--text-highlight-bg) !important;
+    color: var(--text-highlight-fg) !important;
+}
+.markdown-rendered mark a { color: #bf616a !important; font-weight: 600; }
+
+.markdown-rendered code:not([class*="language-"]),
+.cm-inline-code {
+    color: var(--code-normal) !important;
+}
+
+.markdown-rendered a.tag,
+.cm-hashtag {
+    color: var(--tag-color) !important;
+    background-color: var(--tag-background) !important;
+}
+
+.inline-title { color: var(--inline-title-color) !important; }
+.markdown-embed-title { color: #ebcb8b !important; font-weight: 600 !important; }
+.nav-file-tag { color: var(--nav-file-tag) !important; }
+
+.markdown-rendered blockquote,
+.markdown-source-view.mod-cm6 .cm-quote {
+    border-left-color: #5e81ac !important;
+}
+
+.markdown-rendered h1, .markdown-rendered h2, .markdown-rendered h3,
+.markdown-rendered h4, .markdown-rendered h5, .markdown-rendered h6,
+.markdown-source-view.mod-cm6 .cm-header-1,
+.markdown-source-view.mod-cm6 .cm-header-2,
+.markdown-source-view.mod-cm6 .cm-header-3,
+.markdown-source-view.mod-cm6 .cm-header-4,
+.markdown-source-view.mod-cm6 .cm-header-5,
+.markdown-source-view.mod-cm6 .cm-header-6,
+.HyperMD-header-5, .HyperMD-header-6 {
+    font-weight: 600 !important;
+}
+
+.markdown-rendered h1, .markdown-source-view.mod-cm6 .cm-header-1 { font-size: 1.15em !important; }
+.markdown-rendered h2, .markdown-source-view.mod-cm6 .cm-header-2 { font-size: 1.10em !important; }
+.markdown-rendered h3, .markdown-source-view.mod-cm6 .cm-header-3 { font-size: 1.08em !important; }
+.markdown-rendered h4, .markdown-source-view.mod-cm6 .cm-header-4 { font-size: 1.08em !important; }
+.markdown-rendered h5, .markdown-source-view.mod-cm6 .cm-header-5 { font-size: 1.08em !important; }
+.markdown-rendered h6, .markdown-source-view.mod-cm6 .cm-header-6 { font-size: 1.05em !important; }

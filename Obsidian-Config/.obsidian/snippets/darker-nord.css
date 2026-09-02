@@ -1,0 +1,16 @@
+.theme-dark {
+  /* This is a deeper, darker Nord-inspired background color */
+  --background-primary: #27282e;
+  # --background-primary-alt: #23272e;
+  --background-secondary: #313239;
+  # --background-secondary-alt: #2e3440;
+}
+
+/* --- Soften Sidebar Transitions --- */
+
+/* 1. Make the actual border lines transparent */
+.workspace-split, .workspace-ribbon {
+  border-color: transparent !important;
+}
+
+

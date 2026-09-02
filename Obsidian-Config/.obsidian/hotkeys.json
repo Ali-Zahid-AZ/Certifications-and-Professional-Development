@@ -1,0 +1,20 @@
+{
+  "workspace:export-pdf": [{"modifiers":["Mod","Shift"],"key":"P"}],
+  "editor:toggle-highlight": [{"modifiers":["Mod","Shift"],"key":"Z"}],
+  "editor:insert-codeblock": [{"modifiers":["Mod","Shift"],"key":"C"}],
+  "workspace:new-tab": [],
+  "editor:insert-tag": [{"modifiers":["Mod"],"key":"T"}],
+  "file-explorer:new-file": [],
+  "file-explorer:new-file-in-current-tab": [{"modifiers":["Mod"],"key":"N"}],
+  "file-explorer:new-file-in-new-pane": [],
+  "file-explorer:new-folder": [{"modifiers":["Mod","Shift"],"key":"N"}],
+  "editor:insert-wikilink": [{"modifiers":["Mod","Shift"],"key":"L"}],
+  "app:toggle-right-sidebar": [{"modifiers":["Alt"],"key":"S"}],
+  "editor:toggle-readable-line-length": [{"modifiers":["Alt","Mod"],"key":"L"}],
+  "editor:open-search-replace": [{"modifiers":["Alt","Mod"],"key":"R"}],
+  "editor:insert-callout": [{"modifiers":["Alt","Mod"],"key":"C"}],
+  "app:toggle-left-sidebar": [{"modifiers":["Alt","Mod"],"key":"S"}],
+  "outline:open": [{"modifiers":["Alt","Mod"],"key":"O"}],
+  "automatic-table-of-contents:insert-automatic-table-of-contents": [{"modifiers":["Mod"],"key":"Q"}],
+  "obsidian-regex-replace:obsidian-regex-replace": [{"modifiers":["Alt","Mod"],"key":"P"}]
+}

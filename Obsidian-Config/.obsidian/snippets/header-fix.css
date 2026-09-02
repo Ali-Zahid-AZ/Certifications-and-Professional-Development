@@ -1,0 +1,28 @@
+/* 1. Global Semi-Bold (Weight 600) for all headers */
+.markdown-rendered h1, .markdown-rendered h2, .markdown-rendered h3,
+.markdown-rendered h4, .markdown-rendered h5, .markdown-rendered h6,
+.markdown-source-view.mod-cm6 .cm-header-1,
+.markdown-source-view.mod-cm6 .cm-header-2,
+.markdown-source-view.mod-cm6 .cm-header-3,
+.markdown-source-view.mod-cm6 .cm-header-4,
+.markdown-source-view.mod-cm6 .cm-header-5,
+.markdown-source-view.mod-cm6 .cm-header-6,
+.HyperMD-header-5, .HyperMD-header-6 {
+    font-weight: 600 !important;
+}
+
+/* 2. Precision Color Calibration */
+.theme-dark, .theme-light {
+    --h3-color: var(--green) !important;
+    --h4-color: hsl(311, 30%, 70%) !important;
+    --h5-color: hsl(190, 50%, 60%) !important;
+    --h6-color: hsl(190, 30%, 70%) !important;
+}
+
+/* 3. Your Optimized Scale Steps */
+.markdown-rendered h1, .markdown-source-view.mod-cm6 .cm-header-1 { font-size: 1.15em !important; }
+.markdown-rendered h2, .markdown-source-view.mod-cm6 .cm-header-2 { font-size: 1.10em !important; }
+.markdown-rendered h3, .markdown-source-view.mod-cm6 .cm-header-3 { font-size: 1.08em !important; }
+.markdown-rendered h4, .markdown-source-view.mod-cm6 .cm-header-4 { font-size: 1.08em !important; }
+.markdown-rendered h5, .markdown-source-view.mod-cm6 .cm-header-5 { font-size: 1.08em !important; }
+.markdown-rendered h6, .markdown-source-view.mod-cm6 .cm-header-6 { font-size: 1.05em !important; }
