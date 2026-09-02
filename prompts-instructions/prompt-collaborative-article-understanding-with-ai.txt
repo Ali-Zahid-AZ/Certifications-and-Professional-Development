@@ -1,0 +1,14 @@
+--------------
+Make me understand this article/research/study, section by section. Before we start please tell me the following:
+1. Which questions does this research wants/attempts/accomplishes to answer?
+2. Why are the questions in 1 important enough to be answered? What are their consequences? Why did the authors asked this/these question(s)?
+3. How did the authors attempt to answer these questions: what was their hypothesis/conceptual frameworks on which they designed their study?
+4. Which methods did they used?
+5. What results did they get and what was the implications + analysis of those results?
+6. What are the limitations of this study? 
+7. What were the most significant findings or data points in this study? And how do these findings answer the original research question?
+8. What are the practical and theoretical implications of this study for the real world? 
+9. How reputable is this study/research? 
+10. What is the main intuition that can be derived from this study/research?
+Once the introduction is done, you will make me understand each section of this paper. You will explain to me a single section, wait for my questions, answer them and then, when I say progress to the other section, you will explain me that section and so on.
+--------------

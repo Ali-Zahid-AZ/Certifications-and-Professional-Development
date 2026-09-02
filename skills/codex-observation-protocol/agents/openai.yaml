@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-observation-protocol"
+  short_description: "Codex-native observation protocol procedure"
+  default_prompt: "Use $codex-observation-protocol to apply the Codex-native procedure for this task."

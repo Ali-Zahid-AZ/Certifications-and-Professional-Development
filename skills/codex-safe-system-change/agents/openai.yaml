@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-safe-system-change"
+  short_description: "Reversible system change safeguards"
+  default_prompt: "Use safe system change guidance"

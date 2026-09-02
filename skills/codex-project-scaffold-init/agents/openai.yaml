@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-project-scaffold-init"
+  short_description: "Codex-native project scaffold init procedure"
+  default_prompt: "Use $codex-project-scaffold-init to apply the Codex-native procedure for this task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-audit-codebase"
+  short_description: "Codex-native audit codebase procedure"
+  default_prompt: "Use $codex-audit-codebase to apply the Codex-native procedure for this task."

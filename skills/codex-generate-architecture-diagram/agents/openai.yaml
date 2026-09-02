@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-generate-architecture-diagram"
+  short_description: "Codex-native generate architecture diagram procedure"
+  default_prompt: "Use $codex-generate-architecture-diagram to apply the Codex-native procedure for this task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-full-autonomous-council-implementation-authority"
+  short_description: "Codex-native project workflow procedure"
+  default_prompt: "Use $codex-full-autonomous-council-implementation-authority to apply the Codex-native procedure for this task."

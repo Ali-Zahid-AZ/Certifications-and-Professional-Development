@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-engineering-standards"
+  short_description: "Apply engineering standards and verify code changes"
+  default_prompt: "Use $codex-engineering-standards to apply the engineering standard and verification gate."

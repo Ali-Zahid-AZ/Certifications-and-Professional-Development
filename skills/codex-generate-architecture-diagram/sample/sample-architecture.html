@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>TEMPLATE — Architecture (vertical bands)</title>
+<!-- House style is inlined below so each diagram .html is fully self-contained and renders anywhere via file://.
+     The canonical copy of this CSS lives next to this file as diagram_house.css — keep them in sync. -->
+<style>
+/* ============================================================================
+   HOUSE SCHEMATIC STYLE — "paper-figure" near-monochrome standard.
+   Reads like a journal panel (Anthropic "Biology" / Persona-Vectors Fig 1),
+   NOT a slide deck. Structure is carried by TYPOGRAPHY + LAYOUT, not colour.
+
+   The one governing principle: HUE ENCODES MEANING, not category.
+     • Teal  (--accent) ... filled number badges + the ground-truth anchor card (◆) + code chips
+     • Clay  (--break)  ... exactly ONE thing per figure — the mechanism that BREAKS (⚠). Never decorative.
+     • Umber (--conn)   ... flow connectors / arrows only
+     • Warm neutrals    ... everything else (paper, ink, hairlines, card borders)
+   Never reintroduce green / amber / orange / periwinkle / lavender as CATEGORY labels.
+
+   The structural layout classes (.band, .bband, .flow, .board, .canvas …) are
+   preserved so existing bodies render, but every colour collapses to the scheme
+   above. Single source of truth — templates inline a copy; re-sync on change.
+   ============================================================================ */
+:root{
+  --paper:#faf7f1;       /* warm ivory canvas — plain, NO grid lines */
+  --ink:#272320;         /* warm near-black — titles, card titles */
+  --soft:#6f665b;        /* warm muted — body / secondary text */
+  --faint:#a89f91;       /* hairline + italic lead text */
+  --rule:#e3dccf;        /* hairline rules, default card border */
+  --conn:#6e5747;        /* warm dark umber — flow connectors (Anthropic presence) */
+  --accent:#2f6f6b;      /* petrol/teal — THE single accent (badges + ground truth) */
+  --accent-d:#1f4f4c;    /* deep accent — accent text */
+  --accent-wash:#eef4f2; /* faint teal tint — ground-truth card fill + code chips */
+  --break:#b5482e;       /* clay-red — reserved for the ONE mechanism break, nothing else */
+  --break-wash:#f7ece7;
+  --card:#fffdf9;        /* card fill (warm white) */
+  /* legacy aliases kept so older bodies still resolve to the house neutrals */
+  --navy:var(--ink); --muted:var(--soft); --green:var(--accent-d); --red:var(--break); --amber:var(--accent);
+}
+*{box-sizing:border-box;}
+body{margin:0;background:var(--paper);color:var(--ink);
+     font-family:"Segoe UI",Inter,Arial,sans-serif;-webkit-font-smoothing:antialiased;}
+/* NO grid background, NO filled banner bars — plain warm paper. */
+.page{width:1400px;margin:0 auto;padding:38px 46px 40px;}
+
+/* ---- header: kicker → title → sub → breadcrumb sequence → hairline ---- */
+.kicker{font-size:11.5px;letter-spacing:2.4px;text-transform:uppercase;color:var(--accent);
+        font-weight:700;margin:0 0 9px;}
+h1{font-size:29px;font-weight:800;margin:0 0 7px;letter-spacing:.1px;color:var(--ink);}
+h1 em,h1 .v{font-style:italic;color:var(--accent-d);font-weight:800;}
+.sub{font-size:15px;color:var(--soft);margin:0 0 4px;max-width:1000px;line-height:1.45;font-style:italic;}
+.sub em{font-style:italic;color:var(--accent-d);}
+.hr{height:1px;background:var(--rule);border:0;margin:14px 0 22px;}
+/* breadcrumb sequence (paper-style — replaces the old filled banner) */
+.seq{font-size:11px;letter-spacing:1.4px;text-transform:uppercase;color:var(--soft);font-weight:600;
+     margin:9px 0 0;display:flex;flex-wrap:wrap;align-items:center;gap:7px;}
+.seq .sep{color:var(--conn);font-weight:700;}
+.seq b{color:var(--accent-d);font-weight:800;}
+
+/* ---- banner: NOT a filled bar — type-led line under a hairline ---- */
+.banner{background:transparent;color:var(--soft);border:0;border-bottom:1px solid var(--rule);
+        border-radius:0;padding:0 0 12px;font-size:14px;font-weight:600;text-align:center;
+        letter-spacing:.3px;margin-bottom:20px;}
+.banner b{color:var(--accent-d);}
+
+/* number badge — FLAT filled teal circle, white numeral. No gradient/shadow/ring. */
+.num,.badge{width:34px;height:34px;border-radius:50%;background:var(--accent);color:#fff;font-weight:700;
+     font-size:16px;display:flex;align-items:center;justify-content:center;flex:0 0 auto;}
+
+/* shared card — warm white, hairline --rule border, terse title + terms */
+.card{background:var(--card);border:1.5px solid var(--rule);border-radius:11px;padding:9px 12px;
+      font-size:13px;line-height:1.34;box-shadow:0 1px 0 rgba(80,70,55,.04);min-width:150px;max-width:252px;}
+.card .t,.card .ct{font-weight:700;font-size:13px;color:var(--ink);margin-bottom:2px;letter-spacing:.2px;}
+.card .cx{font-size:12px;color:var(--soft);line-height:1.36;}
+.card code,code.k{font-family:"SFMono-Regular",Menlo,Consolas,monospace;font-size:11.5px;color:var(--accent-d);
+      background:var(--accent-wash);border-radius:3px;padding:.5px 4px;}
+/* coloured rounded border ONLY on the ground-truth card and the single break card */
+.card.gt{border-color:var(--accent);background:var(--accent-wash);}
+.card.gt .t,.card.gt .ct{color:var(--accent-d);}
+.card.gt .t::before,.card.gt .ct::before{content:"\25C6  ";color:var(--accent);font-size:11px;}
+.card.brk{border-color:var(--break);background:var(--break-wash);}
+.card.brk .t,.card.brk .ct{color:var(--break);}
+.card.brk .t::before,.card.brk .ct::before{content:"\26A0  ";font-size:11px;}
+
+/* connectors / arrows — warm umber only */
+.arrow,.farrow{font-size:21px;font-weight:800;color:var(--conn);} .arrow.small,.farrow.small{font-size:17px;}
+.tag{font-size:12px;font-weight:700;color:var(--accent-d);align-self:center;}
+.stop{color:var(--break);font-weight:800;}
+
+/* band tints collapsed to neutral — bands are warm-white with hairlines; badges teal */
+.b1,.b2,.b3,.b4,.b5,.b6{background:var(--card);}
+.b1 .num,.b2 .num,.b3 .num,.b4 .num,.b5 .num,.b6 .num{background:var(--accent);}
+.b1 .cells,.b2 .cells,.b3 .cells,.b4 .cells,.b5 .cells,.b6 .cells,
+.b1 .cards,.b2 .cards,.b3 .cards,.b4 .cards,.b5 .cards,.b6 .cards{background:transparent;}
+
+/* ===== ARCHITECTURE layout (vertical bands) ===== */
+.band{display:grid;grid-template-columns:218px 1fr;border-radius:12px;margin-bottom:13px;
+      overflow:hidden;border:1px solid var(--rule);background:var(--card);}
+.lbl{padding:16px;display:flex;flex-direction:column;gap:4px;}
+.lbl .name{font-weight:800;font-size:17px;line-height:1.15;text-transform:uppercase;color:var(--ink);}
+.lbl .desc{font-size:13px;color:var(--soft);}
+.cells{padding:14px;display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+.loopnote{text-align:right;font-weight:700;font-size:13px;margin:2px 4px 12px;color:var(--accent-d);}
+.loopnote.red{color:var(--break);}
+.foot{display:grid;grid-template-columns:1.15fr 1fr;gap:13px;margin-top:6px;}
+.panel{border-radius:11px;padding:14px 16px;border:1px solid var(--rule);background:var(--card);}
+.panel.boundary{background:var(--card);color:var(--ink);}
+.panel.boundary .h{font-weight:800;font-size:13px;letter-spacing:1px;margin-bottom:8px;color:var(--accent);text-transform:uppercase;}
+.boundary .row{display:flex;gap:14px;align-items:center;}
+.boundary .box{background:var(--paper);border:1px solid var(--rule);border-radius:8px;padding:9px 11px;font-size:13px;flex:1;color:var(--soft);}
+.boundary .box .bt{font-weight:800;margin-bottom:3px;color:var(--ink);}
+.boundary .det{color:var(--accent-d);} .boundary .ai{color:var(--accent-d);}
+.panel.guard{background:var(--paper);}
+.panel.guard .h{font-weight:800;font-size:13px;letter-spacing:1px;margin-bottom:8px;color:var(--accent);text-transform:uppercase;}
+.guard ul{margin:0;padding-left:18px;font-size:13.5px;line-height:1.55;color:var(--soft);}
+
+/* ===== BUILD-SEQUENCE layout (axis + columns) ===== */
+.bband{display:grid;grid-template-columns:34px 200px 1fr 212px;gap:10px;margin-bottom:13px;align-items:stretch;}
+.axis{writing-mode:vertical-rl;transform:rotate(180deg);text-align:center;font-size:11px;font-weight:800;
+      letter-spacing:1.5px;color:var(--faint);padding:6px 0;text-transform:uppercase;}
+.col{border-radius:11px;overflow:hidden;border:1px solid var(--rule);background:var(--card);}
+.head{display:flex;align-items:center;gap:9px;padding:9px 12px;color:var(--ink);background:var(--card);}
+.hname{font-weight:800;font-size:15.5px;text-transform:uppercase;line-height:1.1;}
+.hname span{font-weight:600;font-size:12px;text-transform:none;color:var(--soft);}
+.body{display:flex;flex-direction:column;}
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:9px;padding:11px;}
+.cards.c3{grid-template-columns:repeat(3,1fr);} .cards.c2{grid-template-columns:repeat(2,1fr);}
+.card.full{max-width:none;}
+.gate{margin:0 11px 11px;background:var(--paper);border:1px dashed var(--faint);
+      border-radius:7px;padding:6px 11px;font-size:12.5px;font-weight:700;color:var(--soft);}
+/* callout = editorial aside (NOT a filled amber box): accent rule above, italic */
+.callout{background:transparent;color:var(--ink);border:0;border-top:3px solid var(--accent);border-radius:0;
+         padding:10px 4px 0;font-size:12.5px;line-height:1.4;align-self:center;font-style:italic;}
+.callout b{display:block;font-size:11px;margin-bottom:4px;text-transform:uppercase;letter-spacing:.6px;
+           color:var(--accent-d);font-style:normal;}
+.bband .col.head,.b1 .head,.b2 .head,.b3 .head,.b4 .head,.b5 .head,.b6 .head{background:var(--card);}
+.b1 .col,.b2 .col,.b3 .col,.b4 .col,.b5 .col,.b6 .col{background:var(--card);}
+.nonneg{background:var(--paper);border:1px solid var(--rule);border-radius:11px;padding:13px 18px;margin-top:4px;}
+.nonneg .h{font-weight:800;font-size:13px;text-align:center;letter-spacing:1px;margin-bottom:9px;color:var(--accent);text-transform:uppercase;}
+.nonneg .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;}
+.nonneg ul{margin:0;padding-left:16px;font-size:12.8px;line-height:1.5;color:var(--soft);}
+
+/* ===== closing block + thesis tagline (shared) — hairline framed, type-led, no fill ===== */
+.bottom{background:transparent;color:var(--ink);border:0;border-top:1px solid var(--rule);border-radius:0;
+        padding:16px 0 0;margin-top:24px;font-size:15px;font-weight:600;text-align:center;letter-spacing:.3px;}
+.bottom .sep{color:var(--conn);margin:0 8px;}
+.bottom .hold{color:var(--accent-d);font-style:italic;} .bottom .brk{color:var(--break);font-style:italic;}
+.tagline{text-align:center;font-style:italic;color:var(--soft);font-size:13.5px;line-height:1.5;margin:16px auto 0;max-width:1000px;}
+
+/* invariant / aside — editorial italic with a short accent rule above (not a box) */
+.invariant{margin:26px auto 6px;max-width:800px;text-align:center;font-style:italic;font-size:15px;
+           color:var(--ink);line-height:1.5;position:relative;padding-top:14px;}
+.invariant::before{content:"";position:absolute;top:0;left:50%;transform:translateX(-50%);
+                   width:46px;height:3px;border-radius:3px;background:var(--accent);}
+.invariant b{font-style:normal;color:var(--accent-d);}
+
+/* ===== FLOW-CANVAS layout (node graph) ===== */
+.flow{display:flex;flex-direction:column;gap:0;align-items:stretch;}
+.frow{display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:flex-start;margin:5px 0;}
+.frow.center{justify-content:center;}
+.node{background:var(--card);border:1.5px solid var(--rule);border-radius:11px;padding:9px 12px;font-size:13px;
+      line-height:1.3;min-width:150px;max-width:240px;box-shadow:0 1px 0 rgba(80,70,55,.04);}
+.node .t{font-weight:700;font-size:13px;color:var(--ink);margin-bottom:2px;}
+.node.start{background:var(--card);color:var(--accent-d);border:1.5px solid var(--accent);text-align:center;font-weight:800;border-radius:22px;}
+.node.action{border-left:5px solid var(--accent);}
+.node.update{border-left:5px solid var(--conn);}
+.node.create{border-left:5px solid var(--accent-d);}
+.node.fault{border-color:var(--break);border-left:5px solid var(--break);background:var(--break-wash);}
+.node.end{background:var(--accent-wash);border:1.5px solid var(--accent);color:var(--accent-d);border-radius:22px;text-align:center;font-weight:800;}
+.decision{background:var(--card);border:1.5px solid var(--rule);border-radius:11px;padding:9px 12px;font-size:13px;
+          line-height:1.3;min-width:150px;max-width:230px;position:relative;}
+.decision .t{font-weight:800;font-size:13px;color:var(--accent-d);margin-bottom:2px;}
+.elbl{font-size:11.5px;font-weight:700;color:var(--soft);background:transparent;padding:1px 5px;border-radius:4px;}
+.elbl.yes{color:var(--accent-d);} .elbl.no{color:var(--break);}
+.legend{display:flex;gap:24px;flex-wrap:wrap;font-size:11.5px;margin:18px 2px 6px;align-items:center;justify-content:center;color:var(--faint);}
+.legend span,.legend .k{display:inline-flex;align-items:center;gap:6px;}
+.swatch,.dot{width:12px;height:12px;border-radius:50%;display:inline-block;}
+
+/* ===== BOARD layout (status cards) — teal = pass/anchor, clay = break/warn, neutral = defer ===== */
+.board{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:14px;}
+.board.c2{grid-template-columns:repeat(2,1fr);} .board.c3{grid-template-columns:repeat(3,1fr);}
+.tcard{background:var(--card);border-radius:11px;padding:12px 13px;border:1.5px solid var(--rule);
+       border-top:4px solid var(--faint);box-shadow:0 1px 0 rgba(80,70,55,.04);font-size:13px;line-height:1.34;}
+.tcard .th{font-weight:800;font-size:14px;margin-bottom:4px;display:flex;align-items:center;gap:6px;color:var(--ink);}
+.tcard.pass{border-top-color:var(--accent);} .tcard.pass .badge{background:var(--accent);}
+.tcard.warn{border-top-color:var(--break);} .tcard.warn .badge{background:var(--break);}
+.tcard.defer{border-top-color:var(--soft);} .tcard.defer .badge{background:var(--soft);}
+.tcard .badge{width:auto;height:auto;color:#fff;font-size:11px;font-weight:800;border-radius:11px;padding:1px 8px;margin-left:auto;}
+.emcallout{background:var(--accent-wash);border:1px solid var(--accent);border-radius:11px;padding:12px 15px;
+           font-size:13.5px;line-height:1.45;margin-bottom:14px;color:var(--accent-d);}
+.emcallout b{color:var(--accent-d);}
+
+/* ===== FLOW-CANVAS spine helpers (3-column: left-branch | spine | right-branch) ===== */
+.canvas{display:flex;flex-direction:column;gap:2px;margin:6px 0 10px;}
+.srow{display:flex;align-items:center;}
+.srow .lft{flex:1;display:flex;justify-content:flex-end;gap:8px;padding-right:12px;}
+.srow .ctr{width:280px;display:flex;justify-content:center;flex:0 0 auto;}
+.srow .rgt{flex:1;display:flex;justify-content:flex-start;gap:8px;padding-left:12px;}
+.down{display:flex;flex-direction:column;align-items:center;color:var(--conn);line-height:1;}
+.down .a{font-size:20px;font-weight:800;}
+.bnode{background:var(--paper);border:1px solid var(--rule);border-radius:9px;padding:7px 10px;font-size:12px;
+       line-height:1.27;max-width:230px;color:var(--soft);}
+.bnode .t{font-weight:800;font-size:12.5px;margin-bottom:1px;color:var(--ink);}
+.bnode.placed{background:var(--accent-wash);border-color:var(--accent);}
+.bnode.failed{background:var(--break-wash);border-color:var(--break);}
+.bnode.dry{background:var(--paper);border-color:var(--faint);}
+.node.loop{border-left:5px solid var(--conn);background:var(--paper);}
+.entrynote{text-align:center;font-weight:700;color:var(--soft);font-size:13px;background:transparent;
+           border:1px dashed var(--faint);border-radius:7px;padding:6px 12px;align-self:center;margin-bottom:4px;}
+
+</style>
+</head>
+<body>
+<div class="page">
+  <h1>Office-Hub Follow-Up Automation Agent — Architecture <span class="v">(v1)</span></h1>
+  <p class="sub">100% native on Salesforce — the LLM writes the words, Apex decides everything else.</p>
+  <div class="banner">100% NATIVE SALESFORCE <b>·</b> NO EXTERNAL SERVER <b>·</b> NO EXTERNAL DATABASE <b>·</b> NO EXTERNAL SCHEDULER <b>·</b> v1 = Scope 1 (Lead drip)</div>
+
+  <!-- 1 -->
+  <div class="band b1">
+    <div class="lbl"><div class="num">1</div><div class="name">Scheduling</div><div class="desc">Runs once daily</div></div>
+    <div class="cells">
+      <div class="card"><div class="t">🗓 Apex Scheduler</div>Schedulable — daily <b>9:00 AM UAE</b>. One job kicks the whole run.</div>
+      <span class="arrow small">→</span>
+      <div class="card"><div class="t">💓 Daily Heartbeat</div><code>finish()</code> writes a log row → proves the scheduler actually ran.</div>
+    </div>
+  </div>
+
+  <!-- 2 -->
+  <div class="band b2">
+    <div class="lbl"><div class="num">2</div><div class="name">Eligibility &amp; Orchestration</div><div class="desc">Deterministic — Apex only</div></div>
+    <div class="cells">
+      <div class="card"><div class="t">Apex Batch</div>Scope size <b>50</b>. Query eligible Leads. <b>No callouts here.</b></div>
+      <span class="arrow small">→</span>
+      <div class="card"><div class="t">ContextBuilder.shouldSend()</div>Who / when / which-step. <br>Live send-cap guard (<code>OrgLimits</code>).</div>
+      <span class="tag">eligible →</span>
+    </div>
+  </div>
+
+  <!-- 3 -->
+  <div class="band b3">
+    <div class="lbl"><div class="num">3</div><div class="name">Async Execution</div><div class="desc">Isolated per Lead</div></div>
+    <div class="cells">
+      <div class="card"><div class="t">☁ Queueable per Lead</div><b>Independent</b>, not chained → failure-isolated.</div>
+      <span class="arrow small">→</span>
+      <div class="card"><div class="t">🛡 Re-query Guard (2h)</div><code>Last_Sent__c</code> 2h <b>AND</b> <code>Response_Received__c</code>=false <b>AND</b> <code>Follow_Up_Active__c</code>=true.</div>
+    </div>
+  </div>
+
+  <!-- 4 -->
+  <div class="band b4">
+    <div class="lbl"><div class="num">4</div><div class="name">Intelligence</div><div class="desc">AI writes words only</div></div>
+    <div class="cells">
+      <div class="card"><div class="t">🔒 Named Credential</div>Secure callout. <b>Keys never in code.</b></div>
+      <span class="arrow small">→</span>
+      <div class="card"><div class="t">🤖 LlmClient — single call</div>CRM context → <code>{subject, body}</code> (OpenAI / Anthropic).</div>
+      <span class="arrow small">→</span>
+      <div class="card"><div class="t">✓ ContentValidator</div>Length · injection · price-token checks. <span class="tag">PASS →</span></div>
+      <div class="card"><div class="t">📄 Static Template</div><span class="stop">on FAIL</span> → always-present fallback (<code>Fallback_Used__c</code>=true).</div>
+    </div>
+  </div>
+
+  <!-- 5 -->
+  <div class="band b5">
+    <div class="lbl"><div class="num">5</div><div class="name">Delivery</div><div class="desc">Send via Salesforce</div></div>
+    <div class="cells">
+      <div class="card"><div class="t">✉ Messaging.SingleEmailMessage</div><code>setSaveAsActivity = true</code> — auto-logs the email as an Activity.</div>
+    </div>
+  </div>
+
+  <!-- 6 -->
+  <div class="band b6">
+    <div class="lbl"><div class="num">6</div><div class="name">State &amp; Observability</div><div class="desc">Track state · log everything</div></div>
+    <div class="cells">
+      <div class="card"><div class="t">🗄 Lead State</div><code>Follow_Up_Step__c</code>++ · <code>Last_Sent__c</code> · <code>Response_Received__c</code> · <code>Response_Detected_At__c</code></div>
+      <div class="card"><div class="t">📊 Telemetry Logs</div><code>LLMCallLog__c</code> · <code>Follow_Up_Evaluation_Log__c</code> (+ heartbeat counts)</div>
+      <div class="card"><div class="t">✉ InboundEmailHandler <span class="stop">(STOP)</span></div>Reply detected → sets <code>Response_Received__c</code>=true → next run skips.</div>
+    </div>
+  </div>
+
+  <div style="text-align:right;color:#c0392b;font-weight:700;font-size:12px;margin:2px 4px 12px;">⟸ reply detected → sequence stops (feeds back to Eligibility)</div>
+
+  <!-- footer -->
+  <div class="foot">
+    <div class="panel boundary">
+      <div class="h">Control / Intelligence Boundary — the safety backbone</div>
+      <div class="row">
+        <div class="box"><div class="bt det">Deterministic Apex decides</div>WHO · WHEN · WHICH STEP · SEND-OR-SKIP · STOP-AFTER-REPLY</div>
+        <div class="box"><div class="bt ai">The LLM decides only</div>The SUBJECT LINE and the BODY TEXT — then it is validated.</div>
+      </div>
+      <div style="font-size:11.5px;margin-top:9px;color:#cfe0ff;">LLM output never feeds back into control flow. An AI mistake can at worst produce a weak email (caught → template), never a wrong send.</div>
+    </div>
+    <div class="panel guard">
+      <div class="h">Key guarantees</div>
+      <ul>
+        <li>Never sends if not eligible (deterministic guard).</li>
+        <li>Never sends after a reply (stop-on-reply).</li>
+        <li>LLM failure → template fallback (email always sent, never blocked).</li>
+        <li>Idempotency + re-checks → no duplicate sends.</li>
+        <li>Full telemetry + daily heartbeat → fully auditable.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="bottom">6 LAYERS <span class="sep">·</span> DETERMINISTIC CORE + SINGLE LLM CALL <span class="sep">·</span> 6 LEAD FIELDS <span class="sep">·</span> 2 LOG OBJECTS <span class="sep">·</span> STOP-ON-REPLY VIA InboundEmailHandler <span class="sep">·</span> SANDBOX-PROVEN BEFORE PRODUCTION</div>
+  <p class="tagline">The machine decides WHEN and WHETHER. The AI decides WHAT to say.</p>
+</div>
+</body>
+</html>

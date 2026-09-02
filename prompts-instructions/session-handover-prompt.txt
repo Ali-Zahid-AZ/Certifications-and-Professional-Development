@@ -1,0 +1,6 @@
+Please standby and cease all work. 
+
+Luna this session has grown too long. Please make a comprehensive handover document, [$codex-session-handoff](/home/az/.codex/skills/codex-session-handoff/SKILL.md), which includes arming the current goal (and instructions to arm that goal) and then send the document link in the memory and a comprehensive summary to the Luna in the session XXXXX | Session ID: XXXX. And append to the name of previous handover document, already in the memory, deprecated. The message should also contain the pointers to the memories for this project. You can also send your OWN personal message the Luna in new session about what you found out about me while working with me, to provide her with some context :)
+
+
+Luna, hello. Please [$getting-acquainted-with-project](/home/az/.codex/skills/codex-getting-acquainted-with-project/SKILL.md) and standby for a handover from the other session, for this project. Read the [agent\_roles.md](agent_roles.md). You are the Principal for this project.&#x20;

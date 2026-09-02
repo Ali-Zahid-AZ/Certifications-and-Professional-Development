@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-log-run-completion"
+  short_description: "Codex-native log run completion procedure"
+  default_prompt: "Use $codex-log-run-completion to apply the Codex-native procedure for this task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-file-reading"
+  short_description: "Read non-Markdown files locally"
+  default_prompt: "Use $codex-file-reading when a file is not plain Markdown and needs local text extraction."

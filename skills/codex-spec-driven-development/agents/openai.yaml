@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-spec-driven-development"
+  short_description: "Govern specification-driven project work"
+  default_prompt: "Use $codex-spec-driven-development to structure and verify non-trivial work from intent through acceptance."

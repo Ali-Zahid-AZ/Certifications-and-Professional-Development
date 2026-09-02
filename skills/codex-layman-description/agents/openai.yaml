@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-layman-description"
+  short_description: "Codex-native layman description procedure"
+  default_prompt: "Use $codex-layman-description to apply the Codex-native procedure for this task."

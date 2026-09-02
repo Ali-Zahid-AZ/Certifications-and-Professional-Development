@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-project-memory-protocol"
+  short_description: "Project memory namespace and import safety"
+  default_prompt: "Use the project memory protocol"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-chatgpt-chat-session-ping"
+  short_description: "Send verified messages to a ChatGPT web session"
+  default_prompt: "Use $codex-chatgpt-chat-session-ping to send a user-approved message to an existing ChatGPT chat session."

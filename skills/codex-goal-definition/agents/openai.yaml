@@ -1,0 +1,7 @@
+interface:
+  display_name: "codex-goal-definition"
+  short_description: "Define Ali-bounded goals for the next work"
+  default_prompt: "Use $codex-goal-definition to turn Ali’s directive into a bounded active goal and execution contract."
+
+policy:
+  allow_implicit_invocation: false

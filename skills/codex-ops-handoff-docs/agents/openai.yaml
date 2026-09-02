@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-ops-handoff-docs"
+  short_description: "Codex-native ops handoff docs procedure"
+  default_prompt: "Use $codex-ops-handoff-docs to apply the Codex-native procedure for this task."

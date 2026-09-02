@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-subagent-orchestration"
+  short_description: "Codex-native subagent orchestration procedure"
+  default_prompt: "Use $codex-subagent-orchestration to apply the Codex-native procedure for this task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-scientific-claim-soundness-audit"
+  short_description: "Codex-native scientific claim soundness audit procedure"
+  default_prompt: "Use $codex-scientific-claim-soundness-audit to apply the Codex-native procedure for this task."

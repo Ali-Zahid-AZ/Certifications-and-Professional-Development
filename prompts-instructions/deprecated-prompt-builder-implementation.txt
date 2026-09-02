@@ -1,0 +1,28 @@
+Now we have to implement V[X]: 
+
+**Core Directives:**
+- Right now you are the builder.
+- Your job is strict implementation, not design. Do not redesign or debate architecture.
+- Strictly follow the tool routing protocol and Radon checks from AGENTS.md.
+- Report results concisely.
+- Ask the user ONLY when blocked by missing information. If blocked, append `BLOCKED:` to the current plan section and stop.
+
+Execute this exact sequence:
+**Phase 1: Execution & Logging**
+1. Read [X] in @IMPLEMENTATION_PLAN.md.
+2. Execute exactly what is written in the plan.
+3. Log every code change in @AGENT-CHANGES.md.
+**Phase 2: Documentation**
+4. Update completion status in the relevant section of @IMPLEMENTATION_PLAN.md.
+5. Append a detailed summary of your work at the end of the latest section in @IMPLEMENTATION_PLAN.md.
+6. Generate the Version Playbook based on the example in @V[x]-PLAYBOOK.md in `docs/documentation/playbooks/markdown`, name it V[x]-PLAYBOOK.md and place it in `docs/documentation/playbooks/markdown`
+7. Create V[x]-DETAILED-EXPLANATIONS.md (detailing the theoretical explanations of what was built in this version) using @V[x]-DETAILED-EXPLANATIONS.md in `docs/documentation/detailed-explanations/markdown` as your structural template. Place the new document in `docs/documentation/detailed-explanations/markdown`.
+8. Copy Section [X] from @IMPLEMENTATION_PLAN.md, verbatim, and paste it into a new file named V[x]-DETAILED-IMPLEMENTATION.md and place it in `docs/documentation/detailed-implementations/markdown`. Do NOT delete anything from the original file.
+9. Ensure that, if required, all the relevant functions are present in @FUNCTION_MAP.md 
+10. Ensure that, if required, all the relevant infrastructure is present in @combined-local-host-links.md (located in `docs/overview/markdown`), @infra_up.sh and @infra_down.sh
+**Phase 3: Populate Code Graph**  
+11. Please ensure that @FUNCTION_MAP.md, @logs-reports-generated.md, @complete-structured-summary-V5-V19-implementation-history.md (update the name of the file as well for the new version) and @architectural-components.md (located in `docs/overview/markdown`) are updated to reflect the latest changes, if required.
+12. Please update the @TO-DO.md
+13. After completing the above steps, run codegraph index and codegraph sync in the root directory of the project, to update the codegraph database.
+
+Please show me a To-Do list that you intend to follow

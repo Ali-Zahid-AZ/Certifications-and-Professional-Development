@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-cloud-run-discipline"
+  short_description: "Codex-native cloud run discipline procedure"
+  default_prompt: "Use $codex-cloud-run-discipline to apply the Codex-native procedure for this task."

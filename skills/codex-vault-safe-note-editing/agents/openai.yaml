@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-vault-safe-note-editing"
+  short_description: "Codex-native vault safe note editing procedure"
+  default_prompt: "Use $codex-vault-safe-note-editing to apply the Codex-native procedure for this task."

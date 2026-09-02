@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-record-council-convergence"
+  short_description: "Codex-native record council convergence procedure"
+  default_prompt: "Use $codex-record-council-convergence to apply the Codex-native procedure for this task."

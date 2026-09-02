@@ -1,0 +1,6 @@
+interface:
+  display_name: "codex-session-handoff"
+  short_description: "Write a restart-safe Codex handoff to project memory"
+  default_prompt: "Use $codex-session-handoff to create a verified restart-safe handoff note in the current project Codex memory."
+policy:
+  allow_implicit_invocation: false

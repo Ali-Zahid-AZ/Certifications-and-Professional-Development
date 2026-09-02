@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-claudecode-session-ping"
+  short_description: "Bridge Codex messages into Claude safely"
+  default_prompt: "Use $codex-claudecode-session-ping to send a bounded, tool-disabled message to an existing Claude session."

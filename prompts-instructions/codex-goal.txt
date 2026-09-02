@@ -1,0 +1,59 @@
+[$codex-second-in-command](/home/az/.codex/skills/codex-second-in-command/SKILL.md) and are granted for this project.
+
+---
+
+Before every external feedback, consultation, or audit dispatch, apply
+[$codex-external-agent-availability-preflight](/home/az/.codex/skills/codex-external-agent-availability-preflight/SKILL.md).
+Re-read the current project's `agent_roles.md` and its one root
+`external-agent-availability.md` immediately before the hello and again before
+the substantive call. Missing, stale, malformed, `not_available`, or
+`unverified` status is unavailable. Session handles are supplied only through
+the approved transient runtime channel and never read from project files.
+
+---
+
+All project and experimental freezes within the granted scope are lifted under [$codex-ali-granted-unfreeze](/home/az/.codex/skills/codex-ali-granted-unfreeze/SKILL.md). Run all experiments, validations, audits, and implementation work required to complete the currently authorized project scope. Do not repeatedly ask Ali for permissions already granted by these skills.
+
+Your goal is to complete this project, phase by phase, through its final objectively verifiable completion gate.
+
+Before acting, acquire and periodically reacquire your bearings from the project rules and the project’s authoritative state documents, including the active BLUEPRINT, IMPLEMENTATION_PLAN, DYNAMIC_LEDGER, AGENT_CHANGES, COUNCIL, and any other project-defined primitives or status carriers. Treat repository state, git evidence, tests, artifacts, and these durable records as the source of truth rather than conversational memory.
+
+For every phase:
+
+1. Determine the exact current state and the first objectively incomplete task.
+2. Follow the active implementation plan and project-defined phase sequence.
+3. Consult the roles and transports declared by the live `agent_roles.md` and the project’s council/audit protocol.
+4. Route OpenCode, Grok, and Claude Code contacts through their applicable session-ping skill after the availability preflight.
+5. Do not hard-code a provider's availability, absence, or fallback in this goal prompt; resolve it from the live role file and current manifest.
+6. Apply [$codex-engineering-standards](/home/az/.codex/skills/codex-engineering-standards/SKILL.md) throughout implementation, experimentation, validation, review, and closeout.
+7. Run all required experiments and tests whose execution is authorized by the granted skills and this goal.
+8. Reconcile implementation results, repository state, task state, documentation, experiment artifacts, and council findings before declaring any phase complete.
+9. Complete all required phase documentation and update all project-defined state/memory carriers before advancing.
+10. Advance autonomously to the next phase when the current phase’s objective evidence and required audits support progression.
+
+If execution history is incomplete, compacted, interrupted, stale, or inconsistent with repository state, do not infer progress from memory. Re-read the authoritative project documents, inspect git status/diff/history and changed files, identify completed/partial/blocked/unstarted work, reconcile the task list against repository evidence, and resume from the first objectively incomplete task. Never repeat completed work solely because conversational context is missing.
+
+Continue autonomously across turns, consultations, experiments, audits, compactions, and phase boundaries. Completion of a single turn, task, experiment, audit, or phase is not completion of this goal.
+
+Pause or mark the goal blocked only when:
+- a genuinely unresolved material conflict requires Ali’s judgment, that is not covered by the [$codex-ali-granted-unfreeze](/home/az/.codex/skills/codex-ali-granted-unfreeze/SKILL.md);
+- a required action falls outside the authority granted by the named skills or active project scope;
+- an irreversible or otherwise explicitly human-gated decision remains;
+- execution is technically blocked after reasonable recovery attempts;
+- or a higher-priority rule explicitly requires Ali.
+
+Do not silently broaden project scope or invent authority beyond what the named skills and project rules grant.
+
+Mark this goal COMPLETE only when the full authorized project is objectively complete: all required phases are closed, implementation and experiments are finished, required validations/tests pass or have been truthfully dispositioned, council/audit obligations are satisfied, documentation and durable state records are reconciled, and the project’s final completion criteria are supported by repository and artifact evidence.
+- Availability is not embedded in this prompt. Before each external call, use the current project manifest and role-file fallback; historical provider labels and old session registries never authorize contact.
+- please ensure that the sub-agents are told to write to the canvas directly.
+- agent_roles.md has the fallback options. 
+- Do NOT stop the goal till it is completed. replace the sub-agents if opencode sub-agents are not present.
+- all sub-agents would be provided 20 minutes for their reviews.
+- if the Codex sub-agents cannot be reached, close them and re-spawn new ones and continue BUT do NOT stop working on the goal.
+- Please make sure you have a comprehensive task list made so that you can keep yourself focused.
+- consider the instructions in @agent_roles.md
+
+----
+
+Also be advised to update the DYNAMIC_LEDGER.md from time to time as required. That is our ledger that holds the project's direction.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-audit-agents-changes-log"
+  short_description: "Codex-native audit agents changes log procedure"
+  default_prompt: "Use $codex-audit-agents-changes-log to apply the Codex-native procedure for this task."

@@ -1,0 +1,7 @@
+interface:
+  display_name: "codex-ali-authority"
+  short_description: "Apply Ali explicit user-level authority"
+  default_prompt: "Use $codex-ali-authority to apply Ali explicit override to the named scope."
+
+policy:
+  allow_implicit_invocation: false

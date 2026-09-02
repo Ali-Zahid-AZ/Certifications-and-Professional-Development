@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-author-implementation-plan"
+  short_description: "Codex-native author implementation plan procedure"
+  default_prompt: "Use $codex-author-implementation-plan to apply the Codex-native procedure for this task."

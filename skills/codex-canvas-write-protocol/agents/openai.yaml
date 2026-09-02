@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-canvas-write-protocol"
+  short_description: "Codex-native canvas write protocol procedure"
+  default_prompt: "Use $codex-canvas-write-protocol to apply the Codex-native procedure for this task."

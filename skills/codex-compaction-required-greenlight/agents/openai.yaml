@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-compaction-required-greenlight"
+  short_description: "Codex-native compaction required greenlight procedure"
+  default_prompt: "Use $codex-compaction-required-greenlight to apply the Codex-native procedure for this task."

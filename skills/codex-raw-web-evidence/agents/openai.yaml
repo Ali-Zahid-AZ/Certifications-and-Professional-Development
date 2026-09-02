@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-raw-web-evidence"
+  short_description: "Raw web evidence and citation integrity"
+  default_prompt: "Use raw web evidence guidance"

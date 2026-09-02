@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex-getting-acquainted-with-project"
+  short_description: "Codex-native getting acquainted with project procedure"
+  default_prompt: "Use $codex-getting-acquainted-with-project to apply the Codex-native procedure for this task."
