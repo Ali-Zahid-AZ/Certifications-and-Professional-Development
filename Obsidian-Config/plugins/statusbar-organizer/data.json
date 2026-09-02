@@ -1,0 +1,65 @@
+{
+  "activePreset": "Default",
+  "activeFullscreenPreset": "Default",
+  "separateFullscreenPreset": false,
+  "presets": {
+    "Default": {
+      "plugin-backlink;1": {
+        "position": 1,
+        "visible": false
+      },
+      "plugin-properties;1": {
+        "position": 2,
+        "visible": false
+      },
+      "plugin-editor-status;1": {
+        "position": 3,
+        "visible": false
+      },
+      "plugin-word-count;1": {
+        "position": 4,
+        "visible": false
+      },
+      "plugin-sync;1": {
+        "position": 5,
+        "visible": false
+      },
+      "plugin-various-complements;1": {
+        "position": 6,
+        "visible": true
+      },
+      "plugin-obsidian-git;1": {
+        "position": 7,
+        "visible": true
+      },
+      "plugin-obsidian-git;2": {
+        "position": 8,
+        "visible": true
+      },
+      "plugin-obsidian-git-git-changes-status-bar-git-changes-status-bar-colored;1": {
+        "position": 9,
+        "visible": true
+      },
+      "plugin-editing-toolbar-editingToolbar-statusbar-button;1": {
+        "position": 10,
+        "visible": true
+      },
+      "plugin-obsidian-git-obsidian-git-statusbar-idle-obsidian-git-statusbar-status-obsidian-git-statusbar-pull;1": {
+        "position": 11,
+        "visible": true
+      },
+      "plugin-obsidian-git-obsidian-git-statusbar-idle;1": {
+        "position": 12,
+        "visible": true
+      },
+      "plugin-obsidian-git-obsidian-git-statusbar-idle-obsidian-git-statusbar-status-obsidian-git-statusbar-pull-obsidian-git-statusbar-message;1": {
+        "position": 13,
+        "visible": true
+      }
+    }
+  },
+  "presetsOrder": [
+    "Default"
+  ],
+  "version": "2.1.4"
+}

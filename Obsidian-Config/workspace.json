@@ -1,0 +1,397 @@
+{
+  "main": {
+    "id": "015f5b8d3e6278e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "67041d7d9751683d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0520e85ec9bce02e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Curriculum-Continuum/04-Ops-and-Infrastructure/Software-Delivery-LifeCycle/Enterprise-Software-Delivery-First-Principles-and-Delivery-Learning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Enterprise-Software-Delivery-First-Principles-and-Delivery-Learning"
+            }
+          },
+          {
+            "id": "de6cccbf8a716655",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11-Systems-Limited/Goals/SystemsLTD-AVP-to-VP-Impact-Ledger.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "SystemsLTD-AVP-to-VP-Impact-Ledger"
+            }
+          },
+          {
+            "id": "4c24946e5bbe2003",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11-Systems-Limited/Goals/SystemsLTD-First-Month-Getting-Acquainted.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "SystemsLTD-First-Month-Getting-Acquainted"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3965fed811db07f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "240c471460f7c8c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82e18c62abf7ad9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db9850c415cd5ab3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#agentops-architectures-mcp  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f9984225abd2d40a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
+          },
+          {
+            "id": "6203216350413fa2",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "trash",
+              "title": "Trash explorer"
+            }
+          },
+          {
+            "id": "1eff3eaca52b7499",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "0c7922062f73d01f",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "vertical-tabs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5018768310547,
+    "collapsed": true
+  },
+  "right": {
+    "id": "017bb0a8bbe781dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9075f953cdbe051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccef4d4a59bfaca3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10-System/Linux/Installation/Updated/Phoenix-Linux Installation-From Scratch Steps.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Phoenix-Linux Installation-From Scratch Steps"
+            }
+          },
+          {
+            "id": "e130697c6f98e59f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03-Curriculum-Continuum/05-Language-and-Agentic-Systems/DLAI-LangChain-Functions-Tools-Agents/Lecture-Notes/DLAI-Functions, Tools and Agents with LangChain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DLAI-Functions, Tools and Agents with LangChain"
+            }
+          },
+          {
+            "id": "011f2971d1f3c933",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04-Library/03-Deep-Learning-and-Architectures/02-Architectures/LLMs-LRMs-Large-Language-Reasoning-Models/Transformers/Research/Attention-Is-All-You-Need-Vaswani.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Attention-Is-All-You-Need-Vaswani"
+            }
+          },
+          {
+            "id": "62185a83a7ae4962",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "8df700f5dcc5b3d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "00-Personal/01-Career/Job-Interviews/Cloudelligent-Interview Preparation.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Cloudelligent-Interview Preparation"
+            }
+          },
+          {
+            "id": "74c05fbc8430bc27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cef64d0d8b06486f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c992c1aca15fae30",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "04-Library/05-Operations-X-Ops/02-LLMOps/Observability-Reliability/Hallucinations-Production-Remediation.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "89a048e607aadf87",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "f34ce2d50aaa6242",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "Strange New Worlds"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4c24946e5bbe2003",
+  "lastOpenFiles": [
+    "03-Curriculum-Continuum/04-Ops-and-Infrastructure/Software-Delivery-LifeCycle/Enterprise-Software-Delivery-First-Principles-and-Delivery-Learning.md",
+    "11-Systems-Limited/Goals/SystemsLTD-AVP-to-VP-Impact-Ledger.md",
+    "05-Obsidian/Templates/References/References-Template.md",
+    "05-Obsidian/Templates/Zotero/CITE.md",
+    "05-Obsidian/Snippets/Snippets.md",
+    "05-Obsidian/Templates/New-Notes/Standard-Note-Template.md",
+    "11-Systems-Limited/Offer-Letter",
+    "11-Systems-Limited/Interview-Process",
+    "11-Systems-Limited/Goals/SystemsLTD-First-Month-Getting-Acquainted.md",
+    "11-Systems-Limited/Goals",
+    "11-Systems-Limited",
+    "zipping-archiving-relevant-folders.md",
+    "00-Personal/01-Career/Job-Interviews/Agentic-AI/RAG-Prototpye-Enterprise-GraphRAG-Agentic-GenAI-Platform.md",
+    "00-Personal/01-Career/Job-Interviews/Agentic-AI/Async Architecture-Graph RAG-Pasqal.md",
+    "00-Personal/01-Career/Job-Interviews/00-Introductory/Physics-Background-Benefits-in-Deep-Learning.md",
+    "00-Personal/01-Career/Job-Interviews/00-Introductory/CV-Pointers-OfficeHub-Pasqal-CNCD-Technical-Stack.md",
+    "00-Personal/01-Career/Job-Interviews/00-Introductory/Introductory-Narrative-Interviews.md",
+    "00-Personal/01-Career/Job-Interviews/00-Introductory/00-Intro-SystemLTD-COO.md",
+    "11-RapidCloud-OfficeHub/03-Learnings/Claude-Code/Claude-Graph-Neo4j-Context-Graph-Claude.md",
+    "11-RapidCloud-OfficeHub/03-Learnings/Claude-Code/Claude-SDK-Basic.md",
+    "11-RapidCloud-OfficeHub/03-Learnings/Claude-Code/Claude-Code-Architecture-Dissection.md",
+    "11-RapidCloud-OfficeHub/03-Learnings/Claude-Code/Claude-Graph-Neo4j-Claude-MCP.md",
+    "11-RapidCloud-OfficeHub/03-Learnings/Claude-Code/Claude-Code-CLI-SDK-vs-GraphRAG.md",
+    "04-Library/05-Operations-X-Ops/03-AgentOps/00-Conceptual-Understanding/MCP-Model-Context-Protocol.md",
+    "10-System/Assets/Pasted image 20260418175041.png",
+    "00-Personal/01-Career/CV-Additions/CV-Additions.md",
+    "07-Archives/RapidCloud-OfficeHub/00-Admin/Work-Done/Week-1-OfficeHub.md",
+    "00-Personal/01-Career/CV-Additions",
+    "07-Archives/RapidCloud-OfficeHub/00-Admin/Work-Done",
+    "04-Library/03-Deep-Learning-and-Architectures/05-Mathematical-Foundations/Artificial-Intelligence-and-the-Structure-of-Mathematics.md",
+    "04-Library/04-Quantum-Systems/03-Algorithms-and-Architectures/Quantum-Machine-Learning/Research/Ablayev-On-Quantum-Methods-for-Machine-Learning-Problems-Part-II-Quantum-Classification-Algorithms.md",
+    "04-Library/04-Quantum-Systems/03-Algorithms-and-Architectures/Quantum-Transformers/Research/Quantum-linear-algebra-is-all-you-need-for-transformer-architectures-2024.md",
+    "04-Library/05-Operations-X-Ops/02-LLMOps/00-Conceptual-Understanding/Conceptual-Hallucinations-and-Management.md",
+    "04-Library/03-Deep-Learning-and-Architectures/02-Architectures/Embeddings/Research",
+    "04-Library/05-Operations-X-Ops/03-AgentOps/00-Admin",
+    "01-Projects/LLMOps/Project-Concepts-in-LLMOps-AgentOps/Main",
+    "01-Projects/LLMOps/Project-Concepts-in-LLMOps-AgentOps/Phase-1-Tokenization-Embeddings",
+    "10-System/Assets/Pasted image 20260401043011.png",
+    "10-System/Assets/Pasted image 20260401042512.png",
+    "10-System/Assets/Pasted image 20260401022241.png",
+    "10-System/Assets/Pasted image 20260330071509.png",
+    "10-System/Assets/Pasted image 20260330051659.png",
+    "10-System/Assets/Pasted image 20260329045418.png",
+    "10-System/Assets/Pasted image 20260329045252.png",
+    "10-System/Assets/Pasted image 20260329045102.png",
+    "10-System/Assets/Pasted image 20260329044130.png",
+    "04-Library/05-Operations-X-Ops/01-MLOps/Architectures/MLOps Stages, Courses and Progress.canvas"
+  ]
+}

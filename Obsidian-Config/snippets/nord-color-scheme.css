@@ -1,0 +1,171 @@
+/* Nord Header Colors — ported from the "Obsidian Nord" theme.
+   Self-contained (hex values inlined) so it works on any active theme (AnuPpuccin).
+   Maps H1–H6 to Nord's exact header palette. */
+
+.theme-dark,
+.theme-light {
+    --h1-color: #bf616a !important; /* Nord red    */
+    --h2-color: #ebcb8b !important; /* Nord yellow */
+    --h3-color: #a3be8c !important; /* Nord green  */
+    --h4-color: #b48ead !important; /* Nord purple */
+    --h5-color: #8fbcbb !important; /* Nord frost0 */
+    --h6-color: #81a1c1 !important; /* Nord frost2 */
+}
+
+/* Bold text — ported from Obsidian Nord */
+.theme-dark  { --bold-color: #ebcb8b !important; } /* Nord yellow */
+.theme-light { --bold-color: #a3be8c !important; } /* Nord green  */
+
+.markdown-rendered strong,
+.markdown-rendered b,
+.markdown-source-view.mod-cm6 .cm-strong {
+    color: var(--bold-color) !important;
+}
+
+/* Reading view */
+.markdown-rendered h1 { color: var(--h1-color) !important; }
+.markdown-rendered h2 { color: var(--h2-color) !important; }
+.markdown-rendered h3 { color: var(--h3-color) !important; }
+.markdown-rendered h4 { color: var(--h4-color) !important; }
+.markdown-rendered h5 { color: var(--h5-color) !important; }
+.markdown-rendered h6 { color: var(--h6-color) !important; }
+
+/* Live Preview / Source (CodeMirror 6) */
+.markdown-source-view.mod-cm6 .cm-header-1,
+.HyperMD-header-1 { color: var(--h1-color) !important; }
+.markdown-source-view.mod-cm6 .cm-header-2,
+.HyperMD-header-2 { color: var(--h2-color) !important; }
+.markdown-source-view.mod-cm6 .cm-header-3,
+.HyperMD-header-3 { color: var(--h3-color) !important; }
+.markdown-source-view.mod-cm6 .cm-header-4,
+.HyperMD-header-4 { color: var(--h4-color) !important; }
+.markdown-source-view.mod-cm6 .cm-header-5,
+.HyperMD-header-5 { color: var(--h5-color) !important; }
+.markdown-source-view.mod-cm6 .cm-header-6,
+.HyperMD-header-6 { color: var(--h6-color) !important; }
+
+/* ===========================================================
+   Full in-note color port from "Obsidian Nord"
+   (theme chrome/backgrounds intentionally left to AnuPpuccin)
+   Nord palette: red #bf616a  orange #d08770  yellow #ebcb8b
+   green #a3be8c  purple #b48ead  frost0 #8fbcbb  frost1 #88c0d0
+   frost2 #81a1c1  frost3 #5e81ac  dark0 #2e3440
+   =========================================================== */
+
+/* ---- Shared variables ---- */
+.theme-dark,
+.theme-light {
+    --link-url: #b48ead !important;            /* editor URLs — Nord purple */
+    --text-accent: #d08770 !important;          /* links / accent — Nord orange */
+    --text-accent-hover: #81a1c1 !important;    /* link hover — Nord frost2 */
+    --inline-title-color: #ebcb8b !important;   /* Nord yellow */
+    --code-normal: #88c0d0 !important;          /* inline code — Nord frost1 */
+    --text-highlight-fg: #2e3440 !important;    /* Nord dark0 */
+}
+
+/* ---- Dark mode variants ---- */
+.theme-dark {
+    --italic-color: #ebcb8b !important;         /* Nord yellow */
+    --text-highlight-bg: #88c0d0 !important;    /* Nord frost1 */
+    --tag-color: #8fbcbb !important;            /* Nord frost0 */
+    --tag-background: #434c5e !important;       /* Nord dark2 */
+    --nav-file-tag: rgba(208,135,112,0.9) !important; /* Nord orange */
+}
+
+/* ---- Light mode variants ---- */
+.theme-light {
+    --italic-color: #a3be8c !important;         /* Nord green */
+    --text-highlight-bg: #ebcb8b !important;    /* Nord yellow */
+    --tag-color: #4c566a !important;            /* Nord dark3 */
+    --tag-background: #e5e9f0 !important;       /* Nord light1 */
+    --nav-file-tag: rgba(208,135,112,0.9) !important; /* Nord orange */
+}
+
+/* ---- Italics ---- */
+.markdown-rendered em,
+.markdown-rendered i,
+.markdown-source-view.mod-cm6 .cm-em {
+    color: var(--italic-color) !important;
+}
+
+/* ---- Links (internal, external, tags) ---- */
+.markdown-rendered a.internal-link,
+.markdown-rendered a.external-link,
+.cm-hmd-internal-link,
+.cm-link {
+    color: var(--text-accent) !important;
+}
+.markdown-rendered a.internal-link:hover,
+.markdown-rendered a.external-link:hover,
+.cm-hmd-internal-link:hover,
+.cm-link:hover {
+    color: var(--text-accent-hover) !important;
+}
+.cm-url { color: var(--link-url) !important; }
+.cm-url:hover { color: var(--text-accent-hover) !important; }
+
+/* ---- Highlights / marks ---- */
+.markdown-rendered mark,
+.cm-highlight {
+    background-color: var(--text-highlight-bg) !important;
+    color: var(--text-highlight-fg) !important;
+}
+.markdown-rendered mark a { color: #bf616a !important; font-weight: 600; } /* Nord red */
+
+/* ---- Inline code ---- */
+.markdown-rendered code:not([class*="language-"]),
+.cm-inline-code {
+    color: var(--code-normal) !important;
+}
+
+/* ---- Tags ---- */
+.markdown-rendered a.tag,
+.cm-hashtag {
+    color: var(--tag-color) !important;
+    background-color: var(--tag-background) !important;
+}
+
+/* ---- Inline title (note H1 title) ---- */
+.inline-title { color: var(--inline-title-color) !important; }
+
+/* ---- Embeds / backlink titles ---- */
+.markdown-embed-title { color: #ebcb8b !important; font-weight: 600 !important; } /* Nord yellow */
+
+/* ---- Nav file tag ---- */
+.nav-file-tag { color: var(--nav-file-tag) !important; }
+
+/* ---- Blockquote accent — Nord frost3 ---- */
+.markdown-rendered blockquote,
+.markdown-source-view.mod-cm6 .cm-quote {
+    border-left-color: #5e81ac !important; /* Nord frost3 */
+}
+
+/* NOTE: "Obsidian Nord" defines no callout-specific colors;
+   callouts are left to AnuPpuccin's own palette. */
+
+/* ===========================================================
+   Merged from former "header-fix" snippet
+   (§2 color-calibration block dropped — it conflicted with the
+    Nord H4/H5/H6 colors set above; Nord palette is authoritative)
+   =========================================================== */
+
+/* Global Semi-Bold (weight 600) for all headers */
+.markdown-rendered h1, .markdown-rendered h2, .markdown-rendered h3,
+.markdown-rendered h4, .markdown-rendered h5, .markdown-rendered h6,
+.markdown-source-view.mod-cm6 .cm-header-1,
+.markdown-source-view.mod-cm6 .cm-header-2,
+.markdown-source-view.mod-cm6 .cm-header-3,
+.markdown-source-view.mod-cm6 .cm-header-4,
+.markdown-source-view.mod-cm6 .cm-header-5,
+.markdown-source-view.mod-cm6 .cm-header-6,
+.HyperMD-header-5, .HyperMD-header-6 {
+    font-weight: 600 !important;
+}
+
+/* Optimized scale steps */
+.markdown-rendered h1, .markdown-source-view.mod-cm6 .cm-header-1 { font-size: 1.15em !important; }
+.markdown-rendered h2, .markdown-source-view.mod-cm6 .cm-header-2 { font-size: 1.10em !important; }
+.markdown-rendered h3, .markdown-source-view.mod-cm6 .cm-header-3 { font-size: 1.08em !important; }
+.markdown-rendered h4, .markdown-source-view.mod-cm6 .cm-header-4 { font-size: 1.08em !important; }
+.markdown-rendered h5, .markdown-source-view.mod-cm6 .cm-header-5 { font-size: 1.08em !important; }
+.markdown-rendered h6, .markdown-source-view.mod-cm6 .cm-header-6 { font-size: 1.05em !important; }

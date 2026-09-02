@@ -1,0 +1,17 @@
+/* --- Dataview Table Styling --- */
+
+/* 1. TABLE HEADINGS (The top row: Topic, Status, etc.) */
+.table-view-table thead th {
+    font-size: 17px !important;   /* CHANGE THIS NUMBER for Heading Size */
+    font-weight: normal !important; /* Keeps headers bold */
+    color: #b3b3b3;               /* Optional: Changes header text color */
+}
+
+/* 2. TABLE DATA (The content rows) */
+.table-view-table tr td {
+    font-size: 15px !important;   /* CHANGE THIS NUMBER for Row Size */
+    line-height: 1.0;             /* Tights up the spacing between lines */
+}
+
+
+

@@ -1,0 +1,45 @@
+/* --- Floating Sidenotes (Left-Default Directional) --- */
+
+/* 1. Base Styling for the Box */
+.cm-inline-footnote {
+    display: block;
+    position: absolute;
+    width: 240px;               
+    font-size: 0.85em;
+    padding: 10px;
+    background-color: var(--background-secondary); 
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 6px;
+    box-shadow: 4px 4px 15px rgba(0,0,0,0.15);
+    z-index: 10;
+    white-space: normal;
+}
+
+/* 2. Directional Controls */
+
+/* NEW DEFAULT: LEFT SIDE */
+.markdown-source-view.mod-cm6 .cm-inline-footnote,
+.aside-left .cm-inline-footnote {
+    left: 0;
+    margin-left: -270px;        /* Pushes it into the left gutter */
+    float: left;
+}
+
+/* RIGHT SIDE TOGGLE */
+.aside-right .cm-inline-footnote {
+    right: 0;
+    margin-right: -270px;       /* Pushes it into the right gutter */
+    float: right;
+    left: auto;                 /* Resets the default left positioning */
+}
+
+/* 3. Visual Cleanup */
+.cm-inline-footnote-start, 
+.cm-inline-footnote-end { 
+    display: none !important; 
+}
+
+/* Optional Hover Effect */
+.cm-inline-footnote:hover {
+    border-color: var(--interactive-accent);
+}

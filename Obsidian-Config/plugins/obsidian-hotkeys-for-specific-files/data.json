@@ -1,0 +1,14 @@
+{
+  "files": [
+    {
+      "useMoment": false,
+      "file": "00-Personal/00-Admin/Trackers/00-Admin-Axiom-Tracker-DeepLearning-ALL.md"
+    },
+    {
+      "useMoment": false,
+      "file": "00-Personal/00-Admin/Trackers/00-Admin-InFocus-Tracker.md"
+    }
+  ],
+  "useExistingPane": true,
+  "useHoverEditor": false
+}

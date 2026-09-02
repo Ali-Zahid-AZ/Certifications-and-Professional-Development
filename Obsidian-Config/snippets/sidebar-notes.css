@@ -1,0 +1,30 @@
+/* --- Sidebar Gutter Sidenotes (V2) --- */
+
+/* 1. Force the layout shift */
+.markdown-source-view.mod-cm6.sidebar-notes .cm-scroller,
+.markdown-reading-view.sidebar-notes .markdown-preview-view {
+    padding-right: 320px !important; 
+    max-width: none !important;      /* Prevents theme centering from squishing the note */
+}
+
+/* 2. Position the notes in the new lane */
+.sidebar-notes .cm-inline-footnote {
+    display: block !important;
+    position: absolute !important;
+    right: 30px !important;         
+    width: 270px !important;
+    font-size: 0.85em;
+    padding: 12px;
+    background-color: var(--background-secondary); 
+    border-left: 4px solid var(--interactive-accent);
+    border-radius: 4px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+    z-index: 10;
+    white-space: normal;
+}
+
+/* 3. Cleanup syntax */
+.sidebar-notes .cm-inline-footnote-start, 
+.sidebar-notes .cm-inline-footnote-end { 
+    display: none !important; 
+}
