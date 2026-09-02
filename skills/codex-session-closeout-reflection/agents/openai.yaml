@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-session-closeout-reflection"
-  short_description: "Codex-native session closeout reflection procedure"
-  default_prompt: "Use $codex-session-closeout-reflection to apply the Codex-native procedure for this task."

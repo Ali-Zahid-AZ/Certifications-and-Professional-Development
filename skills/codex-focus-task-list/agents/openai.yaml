@@ -1,6 +1,0 @@
-interface:
-  display_name: "codex-focus-task-list"
-  short_description: "Keep multi-step Codex work focused"
-  default_prompt: "Use $codex-focus-task-list to build and maintain an evidence-backed task list for this goal."
-policy:
-  allow_implicit_invocation: true

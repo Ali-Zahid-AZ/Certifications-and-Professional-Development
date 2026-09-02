@@ -1,7 +1,0 @@
-interface:
-  display_name: "codex-observability-documents-archiving-truncating"
-  short_description: "Audit and rotate on Ali-authorized invocation"
-  default_prompt: "Use $codex-observability-documents-archiving-truncating for a direct Ali invocation or a qualifying Ali-authorized heartbeat or scheduled trigger to audit and, if required, archive and truncate oversized AGENT_CHANGES.md and COUNCIL.md files."
-
-policy:
-  allow_implicit_invocation: false

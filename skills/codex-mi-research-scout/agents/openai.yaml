@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-mi-research-scout"
-  short_description: "Codex-native mi research scout procedure"
-  default_prompt: "Use $codex-mi-research-scout to apply the Codex-native procedure for this task."

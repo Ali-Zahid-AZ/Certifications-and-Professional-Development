@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-dev-doc-conventions"
-  short_description: "Sanitize and format shareable dev docs"
-  default_prompt: "Use $dev-doc-conventions when preparing shareable development documentation."

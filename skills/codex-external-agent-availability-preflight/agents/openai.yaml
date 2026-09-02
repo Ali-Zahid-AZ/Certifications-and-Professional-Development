@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-external-agent-availability-preflight"
-  short_description: "Require a fresh project-local external-agent status manifest"
-  default_prompt: "Use $codex-external-agent-availability-preflight before any external feedback, consultation, or audit dispatch."

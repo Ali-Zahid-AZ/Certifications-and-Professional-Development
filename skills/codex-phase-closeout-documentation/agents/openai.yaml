@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-phase-closeout-documentation"
-  short_description: "Codex-native phase closeout documentation procedure"
-  default_prompt: "Use $codex-phase-closeout-documentation to apply the Codex-native procedure for this task."

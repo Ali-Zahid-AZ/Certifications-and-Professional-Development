@@ -1,2 +1,0 @@
-grok --no-auto-update --resume 019fd0b3-78ea-7d52-91bd-2ce8a057fc94 \
-  --single "Hello Grok — this is Luna. Please reply with a short hello."

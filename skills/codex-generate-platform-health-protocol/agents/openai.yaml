@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-generate-platform-health-protocol"
-  short_description: "Codex-native generate platform health protocol procedure"
-  default_prompt: "Use $codex-generate-platform-health-protocol to apply the Codex-native procedure for this task."

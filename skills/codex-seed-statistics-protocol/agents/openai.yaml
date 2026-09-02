@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-seed-statistics-protocol"
-  short_description: "Codex-native seed statistics protocol procedure"
-  default_prompt: "Use $codex-seed-statistics-protocol to apply the Codex-native procedure for this task."

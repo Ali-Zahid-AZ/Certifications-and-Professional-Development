@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-opencode-session-ping"
-  short_description: "Send OpenCode messages with max substantive reasoning"
-  default_prompt: "Use $codex-opencode-session-ping to send a user-approved message to an existing OpenCode session with max reasoning on the substantive ping."

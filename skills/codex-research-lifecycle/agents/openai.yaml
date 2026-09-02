@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-research-lifecycle"
-  short_description: "Route research projects through the self-contained lifecycle"
-  default_prompt: "Use $codex-research-lifecycle to initialize or govern a research project."

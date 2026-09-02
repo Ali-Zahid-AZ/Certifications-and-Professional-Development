@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-grok-session-ping"
-  short_description: "Send verified messages to Grok sessions"
-  default_prompt: "Use $codex-grok-session-ping to send a user-approved message to an existing Grok session."

@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-export-tables-md-to-pdf"
-  short_description: "Codex-native export tables md to pdf procedure"
-  default_prompt: "Use $codex-export-tables-md-to-pdf to apply the Codex-native procedure for this task."

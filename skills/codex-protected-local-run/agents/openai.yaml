@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-protected-local-run"
-  short_description: "Codex-native protected local run procedure"
-  default_prompt: "Use $codex-protected-local-run to apply the Codex-native procedure for this task."

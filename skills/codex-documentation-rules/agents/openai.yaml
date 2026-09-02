@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-documentation-rules"
-  short_description: "Phase-close documentation and canvas protocol"
-  default_prompt: "Use $documentation-rules to plan or check a phase-close documentation package."

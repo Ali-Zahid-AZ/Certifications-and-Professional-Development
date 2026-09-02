@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-run-completion-entry-template"
-  short_description: "Evidence-backed completed-run entry format"
-  default_prompt: "Use $run-completion-entry-template to record a completed run in AGENT_CHANGES.md."

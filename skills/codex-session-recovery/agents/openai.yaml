@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-session-recovery"
-  short_description: "Evidence-first interrupted work recovery"
-  default_prompt: "Use session recovery guidance"

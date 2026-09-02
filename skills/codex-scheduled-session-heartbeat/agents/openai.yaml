@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-scheduled-session-heartbeat"
-  short_description: "Arm Ali's minimal liveness trigger"
-  default_prompt: "Use $codex-scheduled-session-heartbeat to send Ali's exact minimal liveness trigger."

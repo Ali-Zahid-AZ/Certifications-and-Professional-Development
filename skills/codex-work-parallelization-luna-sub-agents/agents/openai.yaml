@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-work-parallelization-luna-sub-agents"
-  short_description: "Enforce three Luna Max workers for parallel work"
-  default_prompt: "Use $codex-work-parallelization-luna-sub-agents to enforce the Luna three-worker parallelization gate."

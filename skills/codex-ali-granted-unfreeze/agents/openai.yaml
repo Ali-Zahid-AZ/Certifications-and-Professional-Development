@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-ali-granted-unfreeze"
-  short_description: "Unfreeze bounded work after Luna-Sol convergence"
-  default_prompt: "Use $codex-ali-granted-unfreeze to permit bounded continuation after Luna and Sol converge."

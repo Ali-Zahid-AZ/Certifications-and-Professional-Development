@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-schematic-palette-rules"
-  short_description: "Project palette and diagram rendering rules"
-  default_prompt: "Use $schematic-palette-rules when authoring or reviewing an architecture diagram."

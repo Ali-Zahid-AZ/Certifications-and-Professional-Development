@@ -1,4 +1,0 @@
-interface:
-  display_name: "codex-second-in-command"
-  short_description: "Principal-architect-led second-in-command procedure"
-  default_prompt: "Use $codex-second-in-command to apply the Codex second-in-command procedure for this task."
