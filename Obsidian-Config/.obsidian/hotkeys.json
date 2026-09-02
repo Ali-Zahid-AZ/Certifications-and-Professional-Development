@@ -1,20 +1,265 @@
 {
-  "workspace:export-pdf": [{"modifiers":["Mod","Shift"],"key":"P"}],
-  "editor:toggle-highlight": [{"modifiers":["Mod","Shift"],"key":"Z"}],
-  "editor:insert-codeblock": [{"modifiers":["Mod","Shift"],"key":"C"}],
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
   "workspace:new-tab": [],
-  "editor:insert-tag": [{"modifiers":["Mod"],"key":"T"}],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
   "file-explorer:new-file": [],
-  "file-explorer:new-file-in-current-tab": [{"modifiers":["Mod"],"key":"N"}],
+  "file-explorer:new-file-in-current-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
   "file-explorer:new-file-in-new-pane": [],
-  "file-explorer:new-folder": [{"modifiers":["Mod","Shift"],"key":"N"}],
-  "editor:insert-wikilink": [{"modifiers":["Mod","Shift"],"key":"L"}],
-  "app:toggle-right-sidebar": [{"modifiers":["Alt"],"key":"S"}],
-  "editor:toggle-readable-line-length": [{"modifiers":["Alt","Mod"],"key":"L"}],
-  "editor:open-search-replace": [{"modifiers":["Alt","Mod"],"key":"R"}],
-  "editor:insert-callout": [{"modifiers":["Alt","Mod"],"key":"C"}],
-  "app:toggle-left-sidebar": [{"modifiers":["Alt","Mod"],"key":"S"}],
-  "outline:open": [{"modifiers":["Alt","Mod"],"key":"O"}],
-  "automatic-table-of-contents:insert-automatic-table-of-contents": [{"modifiers":["Mod"],"key":"Q"}],
-  "obsidian-regex-replace:obsidian-regex-replace": [{"modifiers":["Alt","Mod"],"key":"P"}]
+  "file-explorer:new-folder": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "templater-obsidian:05-Obsidian/Templates/Snippets.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "obsidian-markmind:Toggle to markdown or mindmap": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "jupymd:restart-python-kernel": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "jupymd:create-jupyter-notebook": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "side-note:add-comment-to-selection": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:toggle-readable-line-length": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-exp-Inline Citation": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Z"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-exp-Literature-Note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-exp-cite": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-exp-CITE": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "automatic-table-of-contents:insert-automatic-table-of-contents": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "floating-toc:hide-toc-panel": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "templater-obsidian:05-Obsidian/Templates/References/References-Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "find-and-replace-in-selection:find-and-replace-in-selection": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-regex-replace:obsidian-regex-replace": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-hotkeys-for-specific-files:00-Personal/00-Admin/Trackers/00-Admin-Axiom-Tracker-DeepLearning-ALL.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "templater-obsidian:05-Obsidian/Templates/Simple-Macros/Simple-Macros.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ],
+  "obsidian-hotkeys-for-specific-files:00-Personal/00-Admin/Trackers/00-Admin-InFocus-Tracker.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
+  ]
 }
